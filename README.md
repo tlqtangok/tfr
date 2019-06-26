@@ -3,11 +3,12 @@
 </img>
 </span>
 
+![demo of tfr](./img/tfr_gif.gif)
+
 # README 
 
 
 ## tfr synopsis
-![demo of tfr](./img/tfr_gif.gif)
 
 tfr, original name "tor-fr", is a productive tool that sync-up and share your files, directories instantly, efficently and elegantly.
 
