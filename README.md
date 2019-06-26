@@ -1,4 +1,10 @@
+<span style="float:left">
+<img src="./img/tor_fr_icon.png" >
+</img>
+</span>
+
 # README 
+
 
 ## tfr synopsis
 tfr, original name "tor-fr", is a productive tool that sync-up and share your files, directories instantly, efficently and elegantly.
@@ -62,7 +68,7 @@ tfr fr [jd_xx]
 tfr -v
 ```
 
-### ¡ñ Tor
+### Tor
 
 **synopsis**
 
@@ -102,7 +108,7 @@ tfr tor `pwd`
 ```
 
 
-### ¡ñ Fr
+### Fr
 
 *no jd_xx arg*
 ```
