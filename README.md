@@ -129,3 +129,8 @@ tfr fr -pw <your_password>
 ## to do
 - test cases 
 
+
+---
+<div syle="font-size:41px" align=right >
+    Written by Jidor Tang tlqtangok@126.com. Copyright 2018-2019
+</div>
