@@ -12,12 +12,12 @@ tfr, original name "tor-fr", is a productive tool that sync-up and share your fi
 ## supported platform or OS
 
 
-platform | info 
----|---
-Linux | x64 Linux 
-Windows | x64 Win7/Win10 
-Pi | Raspaberry Pi 3 B+, armv7 
-Macintosh | Macintosh/Apple/Darwin 
+platform | download | info | command download
+---|---|---|---
+Linux | [download](https://raw.githubusercontent.com/tlqtangok/tfr/master/rel/linux/tfr) | x64 Linux | `curl https://raw.githubusercontent.com/tlqtangok/tfr/master/rel/linux/tfr > tfr`
+Windows | [download](https://raw.githubusercontent.com/tlqtangok/tfr/master/rel/win/tfr.exe) | x64 Win7/Win10 | `curl https://raw.githubusercontent.com/tlqtangok/tfr/master/rel/win/tfr.exe > tfr.exe`
+Pi | [download](https://raw.githubusercontent.com/tlqtangok/tfr/master/rel/pi/tfr) | Raspaberry Pi 3 B+, armv7 | `curl https://raw.githubusercontent.com/tlqtangok/tfr/master/rel/pi/tfr > tfr`
+Macintosh | [download](https://raw.githubusercontent.com/tlqtangok/tfr/master/rel/darwin/tfr) | Macintosh/Apple/Darwin | `curl https://raw.githubusercontent.com/tlqtangok/tfr/master/rel/darwin/tfr > tfr`
 
 
 this are these already tested platforms, actually, it should work on more platforms. let me know if it works for you.
