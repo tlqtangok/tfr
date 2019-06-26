@@ -48,10 +48,77 @@ you will get the executed file.
 
 
 
-## to run
+## before your run
 the default redis host ip is your localhost. but you can change that by putting the `tfr.config` file to the same folder as your 
 binary file `tfr.exe (windows)` or `tfr (non-windows)`. you can tune it a bit as your wish.
 
+## usage
+
+**synopsis**
+
+```
+tfr tor <filename> [-pw <your_password>]
+tfr fr [jd_xx]
+tfr -v
+```
+
+### ¡ñ Tor
+
+**synopsis**
+
+
+**usage example**
+
+*show version* 
+
+```
+tfr -v
+```
+
+*pass stdin*
+```
+echo 'xxxx' | tfr tor
+
+```
+
+*pass string as argument*
+```
+tfr tor 'xxx'
+```
+
+
+*pass file as argument*
+```
+tfr tor main.cpp
+```
+
+
+*pass folder*
+```
+tfr tor my_folder_name 
+tfr tor .
+tfr tor /a/b/c/you_path_of_file_or_directory
+tfr tor `pwd`
+```
+
+
+### ¡ñ Fr
+
+*no jd_xx arg*
+```
+tfr fr 
+```
+
+
+*has jd_xx*
+```
+tfr fr jd_xx
+```
+*has jd_xx and -pw*
+```
+tfr fr jd_xx -pw <your_password>
+tfr fr -pw <your_password>
+```
 
 ## to do
 - test cases 
