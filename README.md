@@ -14,7 +14,7 @@ Pi | Raspaberry Pi 3 B+, armv7
 Macintosh | Macintosh/Apple/Darwin 
 
 
-this are only tested platforms, actually, it should work on more platforms. let me know if it works for you.
+this are these already tested platforms, actually, it should work on more platforms. let me know if it works for you.
 
 ## deps & env
 
