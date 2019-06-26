@@ -4,7 +4,6 @@
 </span>
 
 # README 
-===
 
 ## tfr synopsis
 tfr, original name "tor-fr", is a productive tool that sync-up and share your files, directories instantly, efficently and elegantly.
@@ -133,7 +132,6 @@ tfr fr -pw <your_password>
 ## to do
 - more test cases 
 
----
 ## change log 
 
 [see here](./commit_history/change_log.md)
