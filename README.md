@@ -17,7 +17,7 @@
 
 tfr, original name "tor-fr", is a productive tool that sync-up and share your files, directories instantly, efficently and elegantly.
 
-in the very beginning, Jidor Tang /[github](https://github.com/tlqtangok)/ and LjessonS Liu /[github](https://github.com/LjessonS)/ start this project 
+in the very beginning, Jidor Tang [(github)](https://github.com/tlqtangok) and LjessonS Liu [(github)](https://github.com/LjessonS) start this project 
 to help themselves to solve many frequently small files and folder transferring from A-machine to B-machine. But eventually, Jidor Tang
 found it is so usefully, so we begin to have it go "open source" at 2019-06-26, ShenZhen, China.
 
