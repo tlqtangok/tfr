@@ -1,0 +1,2693 @@
+commit 65f01fb2ed33856342b0e7bb7fec7251f08de825
+Author: jd <tlqtangok@126.com>
+Date:   Mon Apr 1 16:14:36 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190401_1614
+
+commit b5a0f7a99786f7b1533408673f8b921954a1f222
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Mon Apr 1 16:11:51 2019 +0800
+
+    add or edit: tfr.PL build.PL ./rel/win/tfr.exe at 20190401_1611
+
+commit c7c02c98d2e8e07713b65849973dad02e2ca65cc
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Mon Apr 1 16:11:39 2019 +0800
+
+    add or edit: tfr.config at 20190401_1611
+
+commit fa6850c4068a30b87768b1853169a117505dc4f9
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Mon Apr 1 16:02:02 2019 +0800
+
+    add or edit: tfr.PL build.PL ./rel/win/tfr.exe at 20190401_1602
+
+commit f9e5b6c37bb180c8adb9e58fe4e6c5e2863efbc4
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Mon Apr 1 15:58:42 2019 +0800
+
+    add or edit: tfr.PL build.PL ./rel/win/tfr.exe at 20190401_1558
+
+commit ae1d08c77a22a891253d80da25f5aa735927be4d
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Mon Apr 1 15:57:04 2019 +0800
+
+    add or edit: tfr.PL build.PL ./rel/win/tfr.exe at 20190401_1557
+
+commit fdad41afaf8e6b30572b2d8bb1d65dc5269686dc
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Mon Apr 1 15:53:58 2019 +0800
+
+    add version 2019.04.01
+
+commit 0cb4d0315a1b42dba8b56fc940a0218486890bb9
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Mon Apr 1 15:45:26 2019 +0800
+
+    - edit tfr.PL tfr.config at 20190401_1545
+
+commit 894ff1bceb75264ede9b535718075ef51585557e
+Author: jd <tlqtangok@126.com>
+Date:   Fri Mar 29 22:19:51 2019 +0800
+
+    add or edit: ./rel/pi/tfr at 20190329_2219
+
+commit a602d21c64df79f793d55e729ab0a1480cad4739
+Author: jd <tlqtangok@126.com>
+Date:   Mon Mar 25 23:10:31 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190325_2310
+
+commit 482524528b62503a1a0959b6d76e5e3f43b9388d
+Author: LjessonS <ltww2274@163.com>
+Date:   Mon Mar 25 20:31:38 2019 +0800
+
+    update
+
+commit 903d33be16ee79643222cbe8a0b2bc253b1f1ad1
+Author: jd <tlqtangok@126.com>
+Date:   Sat Mar 23 17:38:26 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190323_1738
+
+commit 6a741b93fd9f765722ed4def92203a04e0d010b5
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Sat Mar 23 17:33:11 2019 +0800
+
+    add or edit: tfr.PL build.PL ./rel/win/tfr.exe at 20190323_1733
+
+commit c4140d3e9b5f857b32701178a5511271d825a195
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Sat Mar 23 17:29:55 2019 +0800
+
+    add -pw pwwwww for fr
+
+commit 704606e67fb0bae16257956ada0f6b587c3ea3fd
+Author: jd <tlqtangok@126.com>
+Date:   Wed Mar 20 23:10:01 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190320_2310
+
+commit 4b63df8297c1f1442677e2bf5805d1d24f61cc75
+Author: LjessonS <ltww2274@163.com>
+Date:   Wed Mar 20 21:32:03 2019 +0800
+
+    update mac version
+
+commit 44647b57c1d9f81c58c6163c1a26e2c197a4eda9
+Author: jd <tlqtangok@126.com>
+Date:   Thu Mar 14 17:09:25 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190314_1709
+
+commit d4c02e5102456de4a4934a8135f46b3067ddbaad
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Thu Mar 14 16:29:04 2019 +0800
+
+    add or edit: tfr.PL at 20190314_1629
+
+commit 1a667b15f63f6a7251b4531c07337fc3fc7f79ba
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Thu Mar 14 15:12:07 2019 +0800
+
+    add or edit: tfr.PL at 20190314_1512
+
+commit 4727e9ddc14c6f4e33ad6723381ba19c88c8df3e
+Author: jd <tlqtangok@126.com>
+Date:   Wed Mar 13 14:10:49 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190313_1410
+
+commit c02bd4c0ebffd08e414724204d0db6344e09bea7
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Wed Mar 13 14:10:10 2019 +0800
+
+    add or edit: sync.PL at 20190313_1410
+
+commit 09f37501dcf99263af8e18cdf73292b6cbd5a94a
+Author: jd <tlqtangok@126.com>
+Date:   Wed Mar 13 09:43:44 2019 +0800
+
+    add or edit: ./rel/pi/tfr at 20190313_0943
+
+commit c3f213203f84171001224f450f2100712973b9ab
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Wed Mar 13 09:20:13 2019 +0800
+
+    add or edit: tfr.PL build.PL ./rel/win/tfr.exe at 20190313_0920
+
+commit a797b9ee21c8aab42626e1d4c794012bd135aa92
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Wed Mar 13 09:15:07 2019 +0800
+
+    add jd_xx in visitor
+
+commit 7a998cbde33850e2ed2ccc7899768381abacabcb
+Author: jd <tlqtangok@126.com>
+Date:   Tue Mar 12 14:26:10 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190312_1426
+
+commit 5175b528405cf130579383078d251521a731f702
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Tue Mar 12 14:21:40 2019 +0800
+
+    add or edit: tfr.PL build.PL ./rel/win/tfr.exe at 20190312_1421
+
+commit a8f3ba654287e216743d360c8356fbc43d413d24
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Tue Mar 12 14:20:28 2019 +0800
+
+    change to 2019.03.12
+
+commit 5c37aa4a7ba7abb5e0979aaf23155e4deb374992
+Author: jd <tlqtangok@126.com>
+Date:   Mon Mar 11 20:26:00 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190311_2026
+
+commit 27b545842e27be085e50b034cc279687cdad4d55
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Mon Mar 11 17:41:37 2019 +0800
+
+    add or edit: tfr.PL build.PL ./rel/win/tfr.exe at 20190311_1741
+
+commit d56baa772858ac93ebf0a11441792142b819c5ab
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Mon Mar 11 17:40:45 2019 +0800
+
+    add or edit: tfr.PL at 20190311_1740
+
+commit 53d16c03e64e13654c56a6134881c9d308f90f78
+Author: jd <tlqtangok@126.com>
+Date:   Mon Mar 11 17:25:54 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190311_1725
+
+commit 32a64e07db49fde4fd0b2a8a9900ff5cb4290d23
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Mon Mar 11 17:03:39 2019 +0800
+
+    add or edit: tfr.PL build.PL ./rel/win/tfr.exe at 20190311_1703
+
+commit 115eb8f6fc5455005132dae7d8138e3207f5bdf6
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Mon Mar 11 17:01:10 2019 +0800
+
+    add show_visitor module, with jd disable pw ts
+
+commit bc49dd9ec7a9e3d9aae9a5c1630e08c56ce3650b
+Author: jd <tlqtangok@126.com>
+Date:   Mon Mar 11 14:25:46 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190311_1425
+
+commit 306a69064f18ac7b50533f3aa9c3e1eee6017658
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Mon Mar 11 13:55:01 2019 +0800
+
+    add or edit: tfr.PL at 20190311_1355
+
+commit 4599bbcd8d58e82ea3f0085e41250eeb6894c5d3
+Author: jd <tlqtangok@126.com>
+Date:   Thu Mar 7 11:25:21 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190307_1125
+
+commit e0c7fbd3df44f6f8e52e5877e63d526e4084f464
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Thu Mar 7 11:06:51 2019 +0800
+
+    add or edit: tfr.PL at 20190307_1106
+
+commit b1ddf5823e76d24e463599dc02e824dc2eba3eb2
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Thu Mar 7 10:43:21 2019 +0800
+
+    add or edit: build.PL at 20190307_1043
+
+commit 8605317dbcc88c391d91d742243fd4f0c86a7383
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Thu Mar 7 10:13:42 2019 +0800
+
+    add or edit: build.PL at 20190307_1013
+
+commit fea7a4b07b49325c5c28d15d613cd03250defdb3
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Thu Mar 7 10:04:47 2019 +0800
+
+    add progressbar, deps in readme.txt
+
+commit ce8389e4868ab7dd9151a90d29a65e1df1610b2c
+Author: jd <tlqtangok@126.com>
+Date:   Wed Mar 6 20:25:12 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190306_2025
+
+commit 1464cc603218bf793522c922656a72764e87f57e
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Wed Mar 6 17:30:51 2019 +0800
+
+    add or edit: build.PL at 20190306_1730
+
+commit d282573cd6a2736efaf07ff65df1ad658101563d
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Wed Mar 6 17:23:48 2019 +0800
+
+    add or edit: sync.PL at 20190306_1723
+
+commit 0ed3a3b8fc4b91dd86de182204e0f35f3c1263ae
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Wed Mar 6 17:03:02 2019 +0800
+
+    add or edit: tfr.PL build.PL ./rel/win/tfr.exe at 20190306_1703
+
+commit de9df303211e8e2433f3d1eae00e6c8c2785b665
+Author: jd <tlqtangok@126.com>
+Date:   Wed Mar 6 12:19:27 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190306_1219
+
+commit 41b822f4ea4cd3fbf8167146ef315da8528a8392
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Wed Mar 6 11:30:23 2019 +0800
+
+    - edit sync.PL at 20190306_1130
+
+commit f6cc367014eeecf81b7936412050d90a3153b70e
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Wed Mar 6 11:11:19 2019 +0800
+
+    add or edit: tfr.PL build.PL ./rel/win/tfr.exe at 20190306_1111
+
+commit 3b94fab6093c2dac106f7bed1a16af16c68dc683
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Wed Mar 6 10:57:44 2019 +0800
+
+    add or edit: tfr.PL build.PL ./rel/win/tfr.exe at 20190306_1057
+
+commit e65e88e0c9e25408fb8a8128a1cf20907507a840
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Wed Mar 6 10:57:08 2019 +0800
+
+    add or edit: tfr.PL at 20190306_1057
+
+commit 485fc76c7f5096c49766c6b862162c28cd0bc955
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Wed Mar 6 09:23:51 2019 +0800
+
+    add or edit: tfr.PL build.PL ./rel/win/tfr.exe at 20190306_0923
+
+commit f94799beb214649409e18623c981adcb889c1754
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Wed Mar 6 09:17:50 2019 +0800
+
+    add or edit: build.PL at 20190306_0917
+
+commit 4229f7d20ab403a914c64a9d66b45f990d691566
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Tue Mar 5 23:11:55 2019 +0800
+
+    add or edit: tfr.PL build.PL ./rel/win/tfr.exe at 20190305_2311
+
+commit bdd52482b49467a9fc4f2a9c206b16e795c27333
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Tue Mar 5 23:10:10 2019 +0800
+
+    - change version to 2019.03.05
+
+commit 7ad1e78cd76f0bb92097c59214dbb2a1b5d2b640
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Tue Mar 5 23:06:51 2019 +0800
+
+    fix bug when exist file for FOLDER_file.tar.gz
+
+commit 810627b25b3d4a59224d622a41ee44af0fe95c34
+Author: jd <tlqtangok@126.com>
+Date:   Sun Mar 3 18:45:34 2019 +0800
+
+    add or edit: ./rel/pi/tfr at 20190303_1845
+
+commit 23b3755a228b618be53e993907fe1240c23e56cc
+Author: LjessonS <ltww2274@163.com>
+Date:   Sun Mar 3 16:21:57 2019 +0800
+
+    update mac version
+
+commit 6ca060213e974ce71d4f99e5e845821f2cd116d3
+Author: jd <tlqtangok@126.com>
+Date:   Sat Mar 2 19:40:22 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190302_1940
+
+commit af06c59f555d37081b9578b88ecc75d4f9a323d7
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Sat Mar 2 19:20:38 2019 +0800
+
+    donot need sleep 0.5s after rmtree()
+
+commit 9169d19ed6b33bf28b02f038ee0f41486ca01792
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Sat Mar 2 19:17:42 2019 +0800
+
+    use !, rather than not
+
+commit e6aa0c15d194c184e963f8bc655ea1f38096e74c
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Sat Mar 2 18:45:03 2019 +0800
+
+    fix bug in assert_use_die, int(not -d xxx)
+
+commit c719da1878e54abb379218420b86a837f76c663f
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Wed Feb 27 15:33:29 2019 +0800
+
+    add or edit: sync.PL at 20190227_1533
+
+commit 92a7fd5826da9c95b85b94ca50a296ffd5bc01a3
+Author: jd <tlqtangok@126.com>
+Date:   Wed Feb 27 15:10:41 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190227_1510
+
+commit cd160b56170458eb1d9f0bdde3d870bec863091f
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Wed Feb 27 15:09:59 2019 +0800
+
+    add or edit: sync.PL at 20190227_1509
+
+commit f2bdd2e2dd9b30d583fd24952bab30effa4660cb
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Wed Feb 27 15:09:37 2019 +0800
+
+    add or edit: sync.PL at 20190227_1509
+
+commit cab21218cdc9d332d8b5dcfd18229fdfe71a57a9
+Author: jd <tlqtangok@126.com>
+Date:   Wed Feb 27 15:07:23 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190227_1507
+
+commit bc42f504e9962f50071b7ac0318ae6088c64867b
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Wed Feb 27 15:07:13 2019 +0800
+
+    add or edit: sync.PL at 20190227_1507
+
+commit c7a5e335b56e438ed10c510e3ecd87caf9899ca4
+Author: jd <tlqtangok@126.com>
+Date:   Wed Feb 27 15:06:32 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190227_1506
+
+commit c9443049d34923f54cd7797bb8bb5f41df8f1d59
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Wed Feb 27 15:06:19 2019 +0800
+
+    add or edit: sync.PL at 20190227_1506
+
+commit 0ab9519174830bf6fe0c4a36a6771c3e83fe092b
+Author: jd <tlqtangok@126.com>
+Date:   Wed Feb 27 15:03:37 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190227_1503
+
+commit 850317014109be2a537ce797fd46b7122e5dfdbb
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Wed Feb 27 14:56:24 2019 +0800
+
+    add or edit: build.PL at 20190227_1456
+
+commit b6c3e9d2f92f4dc89e4e713278828171951db411
+Author: jd <tlqtangok@126.com>
+Date:   Wed Feb 27 14:51:42 2019 +0800
+
+    add or edit: ./rel/pi/tfr at 20190227_1451
+
+commit 37cbb5e45f9391cb4da4f13a7339e94f6ecffadc
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Wed Feb 27 14:49:17 2019 +0800
+
+    add or edit: sync.PL at 20190227_1449
+
+commit c4567c039cf623a33ef3d682ce2212fa69b877c2
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Wed Feb 27 14:46:12 2019 +0800
+
+    add sync.PL , to have md5sum of html replaced
+
+commit a6a4d5d4303b71f8e8f96fcc64bc9964a230d307
+Author: jd <tlqtangok@126.com>
+Date:   Wed Feb 27 08:32:22 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190227_0832
+
+commit 8580a1c6eab2a60c2c9b0750dba952d1f5836f69
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Wed Feb 27 08:22:52 2019 +0800
+
+    add or edit: tfr.PL ./rel/win/tfr.exe at 20190227_0822
+
+commit 8fb48ea7d11cbce9e7873a1131809f98ebcb8814
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Wed Feb 27 08:12:50 2019 +0800
+
+    add or edit: tfr.PL at 20190227_0812
+
+commit 19d98f2398647c975c85011bbc5d89d22ea6fd7a
+Author: jd <tlqtangok@126.com>
+Date:   Wed Feb 27 08:02:55 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190227_0802
+
+commit 4acea36bd6fb09008c7364d580dbe63ee503cd33
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Wed Feb 27 08:01:55 2019 +0800
+
+    add or edit: tfr.PL ./rel/win/tfr.exe at 20190227_0801
+
+commit a636bb2dc5b5abf1b7e478b61caaa684ba347dc7
+Author: jd <tlqtangok@126.com>
+Date:   Tue Feb 26 22:09:27 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190226_2209
+
+commit 3666f88dfdf1bbdaf2c3d9d74772d6ec47bc357e
+Author: LjessonS <ltww2274@163.com>
+Date:   Tue Feb 26 21:21:03 2019 +0800
+
+    update mac version
+
+commit 0efb2fb0fe95be1f18138e85b7bb7f5a38698923
+Author: jd <tlqtangok@126.com>
+Date:   Tue Feb 26 21:09:18 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190226_2109
+
+commit f105f660e2b44d32e4ba7883b6082f56c29fd5b8
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Tue Feb 26 20:43:11 2019 +0800
+
+    add or edit: ./rel/win/tfr.exe at 20190226_2043
+
+commit fd7626d838bf4b2710c186e30579a653acf305ca
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Tue Feb 26 20:41:55 2019 +0800
+
+    add or edit: tfr.PL at 20190226_2041
+
+commit 41b3036f0f0cef9e427352ff85079c7768dc4c78
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Tue Feb 26 20:15:10 2019 +0800
+
+    add or edit: tfr.PL at 20190226_2015
+
+commit 5e33cd7a939a0ed653ea91a446713c0b84c172df
+Author: jd <tlqtangok@126.com>
+Date:   Tue Feb 26 20:09:10 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190226_2009
+
+commit dcb871e764e553be894dc7f533241a73c87e121a
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Tue Feb 26 19:46:59 2019 +0800
+
+    add or edit: tfr.PL at 20190226_1946
+
+commit 1d407ef0e4ebb6b973522e12345975c1d914a42c
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Tue Feb 26 19:45:05 2019 +0800
+
+    add or edit: tfr.PL at 20190226_1945
+
+commit afe3fea214217eb8095b88eed93326562291458d
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Tue Feb 26 19:41:50 2019 +0800
+
+    add or edit: tfr.PL at 20190226_1941
+
+commit b4028b8da77135e38092c0c39a5ba0c29489104e
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Tue Feb 26 19:35:20 2019 +0800
+
+    add or edit: tfr.PL at 20190226_1935
+
+commit a6f1813cf736b5fae7259b1e783aacbc7dd513fb
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Tue Feb 26 19:25:02 2019 +0800
+
+    add or edit: tfr.PL at 20190226_1925
+
+commit b9d7a7d8dfbbc1be30b32c7920f73a24cf926b34
+Author: jd <tlqtangok@126.com>
+Date:   Tue Feb 26 19:08:47 2019 +0800
+
+    add or edit: ./rel/pi/tfr at 20190226_1908
+
+commit c8e3e6b226506953f04e484a5d3a34baf554725b
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Tue Feb 26 18:54:06 2019 +0800
+
+    change net speed download to 1/3
+
+commit 90960141135046299cca550ead0d2afcbdd289fc
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Tue Feb 26 18:39:20 2019 +0800
+
+    revert tfr, an error seen
+
+commit 05a92e9666b7eec45f3dc061ff195e60abda27c0
+Author: jd <tlqtangok@126.com>
+Date:   Tue Feb 26 18:07:50 2019 +0800
+
+    add or edit: ./rel/pi/tfr at 20190226_1807
+
+commit f3ecb11aa9c3fe3fdd81273a0429a987adf760c6
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Tue Feb 26 17:22:33 2019 +0800
+
+    add or edit: sync.PL at 20190226_1722
+
+commit 1de51c25ca6d638532ec489ad5c4690dcb3fd723
+Author: jd <tlqtangok@126.com>
+Date:   Tue Feb 26 17:06:52 2019 +0800
+
+    add or edit: ./rel/pi/tfr at 20190226_1706
+
+commit 00266c8479f6ca3d7cba986e04f6dbbf91d34da0
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Tue Feb 26 16:35:07 2019 +0800
+
+    add or edit: ./rel/win/tfr.exe at 20190226_1635
+
+commit 112dc3f3a297c10968e5d6c58cb30764c5db3f05
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Tue Feb 26 16:34:32 2019 +0800
+
+    add or edit: tfr.PL at 20190226_1634
+
+commit 16ae86f09b9f2227e6adadc14ea01775595222e2
+Author: jd <tlqtangok@126.com>
+Date:   Tue Feb 26 16:06:09 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190226_1606
+
+commit 17e1668f30587c655f37c9bb240b40db6004a23f
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Tue Feb 26 16:02:51 2019 +0800
+
+    - edit ./rel/win/tfr.exe at 20190226_1602
+
+commit b50750be01c92a7f13482f0d43a215046dec2499
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Tue Feb 26 16:02:28 2019 +0800
+
+    add or edit: sync.PL at 20190226_1602
+
+commit 64e45d815670b6c23b983824f03b09227fdab9cd
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Tue Feb 26 15:54:47 2019 +0800
+
+    add or edit: tfr.PL at 20190226_1554
+
+commit ccd3651fdf3179c5fea16197cc4d86fe2ddbc795
+Author: jd <tlqtangok@126.com>
+Date:   Tue Feb 26 15:27:07 2019 +0800
+
+    add or edit: ./rel/pi/tfr at 20190226_1527
+
+commit 98f5739d59239267ed0e1de54339b5e2f7f5b856
+Author: jd <tlqtangok@126.com>
+Date:   Tue Feb 26 15:06:01 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190226_1506
+
+commit cd0e2e4e94a99796acaf8b35806cb45545821270
+Author: jd <tlqtangok@126.com>
+Date:   Tue Feb 26 14:26:18 2019 +0800
+
+    add or edit: ./rel/pi/tfr at 20190226_1426
+
+commit f17defaa6c68ba0237524bfec990943147bee5e6
+Author: jd <tlqtangok@126.com>
+Date:   Tue Feb 26 14:05:55 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190226_1405
+
+commit 98a5e4a4b558516ea629c91dd696a37335703910
+Author: jd <tlqtangok@126.com>
+Date:   Tue Feb 26 13:25:16 2019 +0800
+
+    add or edit: ./rel/pi/tfr at 20190226_1325
+
+commit abcc51cda03c80ae005979a5060a993abd80a4e1
+Author: jd <tlqtangok@126.com>
+Date:   Tue Feb 26 13:05:49 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190226_1305
+
+commit 65b2f1113a7701431ca64c8ea56adad81b50201b
+Author: jd <tlqtangok@126.com>
+Date:   Tue Feb 26 12:24:16 2019 +0800
+
+    add or edit: ./rel/pi/tfr at 20190226_1224
+
+commit 1ba8c003638752837e3abffb3fbcdb570bc8eeda
+Author: jd <tlqtangok@126.com>
+Date:   Tue Feb 26 12:05:42 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190226_1205
+
+commit 7fe65ad027df40e1b2d509aa70b1172c2fc97b12
+Author: jd <tlqtangok@126.com>
+Date:   Tue Feb 26 11:23:27 2019 +0800
+
+    add or edit: ./rel/pi/tfr at 20190226_1123
+
+commit 54ade83a2d17172e3a97c1c3c4e535ddb4c4d615
+Author: jd <tlqtangok@126.com>
+Date:   Tue Feb 26 11:05:36 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190226_1105
+
+commit 6a6dde4dd55f7c6695bea75351b9ea83f570a641
+Author: jd <tlqtangok@126.com>
+Date:   Tue Feb 26 10:22:25 2019 +0800
+
+    add or edit: ./rel/pi/tfr at 20190226_1022
+
+commit a50321c3ed48fce5e604173a4dfde3f9b187521a
+Author: jd <tlqtangok@126.com>
+Date:   Tue Feb 26 10:05:31 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190226_1005
+
+commit 6b7c8c7d20567b359bec8e3dd23a2841e5c8109d
+Author: jd <tlqtangok@126.com>
+Date:   Tue Feb 26 09:21:25 2019 +0800
+
+    add or edit: ./rel/pi/tfr at 20190226_0921
+
+commit 911d014199cd2494e0501587aac8ede8eb21b18c
+Author: jd <tlqtangok@126.com>
+Date:   Tue Feb 26 09:05:24 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190226_0905
+
+commit 7ca416b4e8bfcfde26ec900b2fefa4c819e0e69f
+Author: jd <tlqtangok@126.com>
+Date:   Tue Feb 26 08:20:25 2019 +0800
+
+    add or edit: ./rel/pi/tfr at 20190226_0820
+
+commit 248c4e30c9df0729c5e3ec74c4a2a56be45cb19c
+Author: jd <tlqtangok@126.com>
+Date:   Tue Feb 26 08:05:18 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190226_0805
+
+commit b46a6d23863052546fc06ea70ef0c4627ebfe7d6
+Author: jd <tlqtangok@126.com>
+Date:   Tue Feb 26 07:19:24 2019 +0800
+
+    add or edit: ./rel/pi/tfr at 20190226_0719
+
+commit 2c076e6f0f451ed052dfda518d7d2fb43e11a288
+Author: jd <tlqtangok@126.com>
+Date:   Tue Feb 26 07:05:12 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190226_0705
+
+commit 9668303834ff05d436fb793ce35078a3c3d057d4
+Author: jd <tlqtangok@126.com>
+Date:   Tue Feb 26 06:18:27 2019 +0800
+
+    add or edit: ./rel/pi/tfr at 20190226_0618
+
+commit e60a0b68be42906741502e204bc8d85e747645fa
+Author: jd <tlqtangok@126.com>
+Date:   Tue Feb 26 06:05:06 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190226_0605
+
+commit f2283670f64af4102f1a2c738b4d87088dbbbecb
+Author: jd <tlqtangok@126.com>
+Date:   Tue Feb 26 05:17:42 2019 +0800
+
+    add or edit: ./rel/pi/tfr at 20190226_0517
+
+commit f0ba8f62c18ecae08f2878f9d63d5b7365dbe99f
+Author: jd <tlqtangok@126.com>
+Date:   Tue Feb 26 05:05:00 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190226_0505
+
+commit 0a129295d22ab3289992c47a158151a6d42f888f
+Author: jd <tlqtangok@126.com>
+Date:   Tue Feb 26 04:16:43 2019 +0800
+
+    add or edit: ./rel/pi/tfr at 20190226_0416
+
+commit 3ea679e3e5e980c4639f8bae19b23ca0dd0b1a8b
+Author: jd <tlqtangok@126.com>
+Date:   Tue Feb 26 04:04:54 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190226_0404
+
+commit c2b4bf756878ca4ff3567e21a9ef037ae228821a
+Author: jd <tlqtangok@126.com>
+Date:   Tue Feb 26 03:15:53 2019 +0800
+
+    add or edit: ./rel/pi/tfr at 20190226_0315
+
+commit fc5535560289d09de78a907f7cfb0950050fc351
+Author: jd <tlqtangok@126.com>
+Date:   Tue Feb 26 03:04:48 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190226_0304
+
+commit b3bda77aed2263d5a2ae6b7f984a726416b625b6
+Author: jd <tlqtangok@126.com>
+Date:   Tue Feb 26 02:14:52 2019 +0800
+
+    add or edit: ./rel/pi/tfr at 20190226_0214
+
+commit cb1439dda0addcc2f40cae631a08a0fbf4f14e53
+Author: jd <tlqtangok@126.com>
+Date:   Tue Feb 26 02:04:42 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190226_0204
+
+commit 8677ea658a9e043f915dcf81139861739a71c6e4
+Author: jd <tlqtangok@126.com>
+Date:   Tue Feb 26 01:13:48 2019 +0800
+
+    add or edit: ./rel/pi/tfr at 20190226_0113
+
+commit 9104e631190f2d91356db723906e645443d49574
+Author: jd <tlqtangok@126.com>
+Date:   Tue Feb 26 01:04:36 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190226_0104
+
+commit d5c567baa2a133d7b3a175a2e81a1f0e2a86f151
+Author: jd <tlqtangok@126.com>
+Date:   Tue Feb 26 00:12:48 2019 +0800
+
+    add or edit: ./rel/pi/tfr at 20190226_0012
+
+commit b71ed941c6785359f48582d11a3e6b94a8085adb
+Author: jd <tlqtangok@126.com>
+Date:   Tue Feb 26 00:04:30 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190226_0004
+
+commit 635b23356f8d0821cb3fbaf8e2f851b40e3add90
+Author: jd <tlqtangok@126.com>
+Date:   Mon Feb 25 23:11:48 2019 +0800
+
+    add or edit: ./rel/pi/tfr at 20190225_2311
+
+commit 138e4d840b1d17cb4927076adf71d2b23b371f6d
+Author: jd <tlqtangok@126.com>
+Date:   Mon Feb 25 23:04:23 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190225_2304
+
+commit acd3ca4e679ffe2f3b893637e6b1f10032c5ee60
+Author: jd <tlqtangok@126.com>
+Date:   Mon Feb 25 22:10:58 2019 +0800
+
+    add or edit: ./rel/pi/tfr at 20190225_2210
+
+commit 4eef9cdc59c8122266cb1ad9dc20876ed3341b2d
+Author: jd <tlqtangok@126.com>
+Date:   Mon Feb 25 22:04:17 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190225_2204
+
+commit 04c2d39dae82aed44c23b5ddaaa1d3b4c577c18a
+Author: jd <tlqtangok@126.com>
+Date:   Mon Feb 25 21:09:54 2019 +0800
+
+    add or edit: ./rel/pi/tfr at 20190225_2109
+
+commit 29c472e7cf27492190a4b872ef77bbff5dd10f8a
+Author: LjessonS <ltww2274@163.com>
+Date:   Mon Feb 25 21:07:48 2019 +0800
+
+    update mac version
+
+commit a9bd1472d74222ab85ddcf1245a4b17c3f50865f
+Author: jd <tlqtangok@126.com>
+Date:   Mon Feb 25 21:02:41 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190225_2102
+
+commit f8b95b5743c5516c9fde19f58aecfd3256579292
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Mon Feb 25 20:56:45 2019 +0800
+
+    add or edit: sync.PL at 20190225_2056
+
+commit 6a24f5cfc0e6e267f86dc0f717f4549c69ea7362
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Mon Feb 25 20:53:24 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190225_2053
+
+commit d030a7029a602db751ebd2b409cf7b638e9e8ff1
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Mon Feb 25 20:51:56 2019 +0800
+
+    add or edit: sync.PL at 20190225_2051
+
+commit e04b57e9f6f5e2dd47c97805f27b92b5e09f60cf
+Author: jd <tlqtangok@126.com>
+Date:   Mon Feb 25 20:07:22 2019 +0800
+
+    add or edit: ./rel/pi/tfr at 20190225_2007
+
+commit 97ac737f0d89bdb2002b598e0b5d7fa93594a06b
+Author: jd <tlqtangok@126.com>
+Date:   Mon Feb 25 20:02:00 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190225_2002
+
+commit bc46acfe2befb54debb540652d7ed9b8e61ad4f6
+Author: jd <tlqtangok@126.com>
+Date:   Mon Feb 25 19:06:33 2019 +0800
+
+    add or edit: ./rel/pi/tfr at 20190225_1906
+
+commit 6526b96a72a8dc97b721a36f09beb1471944f093
+Author: jd <tlqtangok@126.com>
+Date:   Mon Feb 25 19:01:54 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190225_1901
+
+commit 2ecde8dcbb78ac00a6959d22a52f1fc687cc952d
+Author: jd <tlqtangok@126.com>
+Date:   Mon Feb 25 18:05:23 2019 +0800
+
+    add or edit: ./rel/pi/tfr at 20190225_1805
+
+commit 3994b376e903deefd0b77d5c8ff089463fa03dfa
+Author: jd <tlqtangok@126.com>
+Date:   Mon Feb 25 18:01:47 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190225_1801
+
+commit a2743bb84ceed59c9e29b0bc6436702b2599f013
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Mon Feb 25 17:44:23 2019 +0800
+
+    tidy the code to common, tor, fr, mess
+
+commit 30072c92df94f37716a62fe8c688293736d4a3d3
+Author: jd <tlqtangok@126.com>
+Date:   Mon Feb 25 17:04:25 2019 +0800
+
+    add or edit: ./rel/pi/tfr at 20190225_1704
+
+commit c74ba8d33b5e7ec98b25501b70f2d6e4be5683ed
+Author: jd <tlqtangok@126.com>
+Date:   Mon Feb 25 17:01:41 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190225_1701
+
+commit 3397ebc61a4cd6d2cef02fc4161a15bf8c25fddd
+Author: jd <tlqtangok@126.com>
+Date:   Mon Feb 25 16:03:38 2019 +0800
+
+    add or edit: ./rel/pi/tfr at 20190225_1603
+
+commit ed7c8f6401070b23ef99cc27aeac4b678a8283be
+Author: jd <tlqtangok@126.com>
+Date:   Mon Feb 25 16:01:35 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190225_1601
+
+commit 1c6acdaa158211d2695ea9a7b585f248b7237ac3
+Author: jd <tlqtangok@126.com>
+Date:   Mon Feb 25 15:02:34 2019 +0800
+
+    add or edit: ./rel/pi/tfr at 20190225_1502
+
+commit 40b14904ee4846ba7d2703a5e29c2b4553e84cbd
+Author: jd <tlqtangok@126.com>
+Date:   Mon Feb 25 14:01:28 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190225_1401
+
+commit ec6be2b7f097f08d377e23b09aa4bcb49c38096f
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Mon Feb 25 13:02:08 2019 +0800
+
+    add or edit: build.PL at 20190225_1302
+
+commit cd9f5e7460249e89658a4dfa225d509419d85451
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Mon Feb 25 12:54:36 2019 +0800
+
+    add or edit: sync.PL at 20190225_1254
+
+commit 869296064b02e1a5061d4c8b12819e167c0a5e20
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Mon Feb 25 12:52:33 2019 +0800
+
+    fix bug for fr, if show progress bar
+
+commit 4ad2fbbe87974c6ae4459eeea78c7c5f8d9a07a9
+Author: jd <tlqtangok@126.com>
+Date:   Mon Feb 25 12:13:22 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190225_1213
+
+commit 384308ed5eeebc1dd4c012b6bf12f2565bbf2818
+Author: jd <tlqtangok@126.com>
+Date:   Mon Feb 25 12:11:45 2019 +0800
+
+    add or edit: ./rel/pi/tfr at 20190225_1211
+
+commit 74c56fa0ba9f0ed448301ab347a03276ac4ffc6a
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Mon Feb 25 09:33:54 2019 +0800
+
+    add win tfr.exe, merge one, first time
+
+commit 21a2e825b1bb06f1138d452990d3e872ff35cb6c
+Author: jd <tlqtangok@126.com>
+Date:   Mon Feb 25 06:12:28 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190225_0612
+
+commit 600d4640ed18ddd89d1f8bbd6331a1dcf7dbc6b6
+Author: jd <tlqtangok@126.com>
+Date:   Mon Feb 25 06:10:02 2019 +0800
+
+    add or edit: ./rel/pi/tfr at 20190225_0610
+
+commit a20780abccfbfa194bf626d5e478d53c29e00a2c
+Author: jd <tlqtangok@126.com>
+Date:   Mon Feb 25 00:12:22 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190225_0012
+
+commit d42564620d86b37c0c600356471c8f0587e30a32
+Author: jd <tlqtangok@126.com>
+Date:   Mon Feb 25 00:09:07 2019 +0800
+
+    add or edit: ./rel/pi/tfr at 20190225_0009
+
+commit d72965550c7ccfc2e7cdcf48c05287fc63bcde1b
+Author: jd <tlqtangok@126.com>
+Date:   Sun Feb 24 18:12:16 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190224_1812
+
+commit 9d8f1a1e880f139812811b4dda4aee81d1ffbd5d
+Author: jd <tlqtangok@126.com>
+Date:   Sun Feb 24 18:08:05 2019 +0800
+
+    add or edit: ./rel/pi/tfr at 20190224_1808
+
+commit c57c49d7a99f685255fd4053969ea33f08a1bdfc
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Sun Feb 24 13:30:37 2019 +0800
+
+    change version to 2019.02.24:die
+
+commit 5700c4b51c5033b79692ea2557c39455c4843f7a
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Sun Feb 24 12:21:28 2019 +0800
+
+    no use tor fr, instead use tfr tor, tfr fr
+
+commit f3289b58bca3fbac7e7f50b9e26bf847951f16ae
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Sun Feb 24 12:20:36 2019 +0800
+
+    no use this tor fr anymore
+
+commit 31133d6e86cb46b862b6f9ee0f5f3d2d47e4a09b
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Sun Feb 24 12:19:12 2019 +0800
+
+    not use this from
+
+commit 5821ef1bad5fbcef3bb5d7f957b3edc0de2db3b2
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Sun Feb 24 12:18:01 2019 +0800
+
+    perl
+
+commit cc82e9cd0febe363d3576e25b7240d00317fcafc
+Author: jd <tlqtangok@126.com>
+Date:   Sun Feb 24 12:01:54 2019 +0800
+
+    add or edit: sync.PL at 20190224_1201
+
+commit 58fe43c0dff12cad5e200b36682c2edd8298e26c
+Author: jd <tlqtangok@126.com>
+Date:   Sun Feb 24 12:00:15 2019 +0800
+
+    add or edit: ./rel/linux/tfr at 20190224_1200
+
+commit c1bc99919028fc1c8d7f741229aff14dc45c53d2
+Author: jd <tlqtangok@126.com>
+Date:   Sun Feb 24 11:48:33 2019 +0800
+
+    add or edit: ./rel/pi/tfr at 20190224_1148
+
+commit 2977879d281574d2631014e203bab5cbbe496a64
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Sun Feb 24 11:47:24 2019 +0800
+
+    add or edit: build.PL at 20190224_1147
+
+commit 35a115ce1caf963ae9fe0bc8b06641e591310518
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Sun Feb 24 11:44:53 2019 +0800
+
+    add or edit: tfr.PL at 20190224_1144
+
+commit 8ede94d723321cedc64aeba5f4449359f6c9a1aa
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Sun Feb 24 11:36:30 2019 +0800
+
+    - edit tfr.PL at 20190224_1136
+
+commit 78acbcd82513ca15f08ea3107826fa708faea169
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Sun Feb 24 11:31:25 2019 +0800
+
+    add or edit: tfr.PL at 20190224_1131
+
+commit f754fe4f9569bce96b5ac9d75ebdb0889a3f5d33
+Author: jd <tlqtangok@126.com>
+Date:   Sun Feb 24 10:56:13 2019 +0800
+
+    add or edit: ./rel/pi/tfr at 20190224_1056
+
+commit 8a0ac4213a45195d450abe8d34c0346390658e61
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Sun Feb 24 10:51:41 2019 +0800
+
+    - edit build.PL tfr.PL at 20190224_1051
+
+commit 0992be2db4cc5b8b26feaabf498bc54e3cec3a80
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Sun Feb 24 10:35:41 2019 +0800
+
+    update build.PL
+
+commit 547bf595f32f1dbaece6d86dfc8bcacb2d80e03c
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Sat Feb 23 23:24:17 2019 +0800
+
+    merge tor-fr to tfr, add tfr.PL
+
+commit 107e05bffcfcae46268881948976baf577147a9e
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Sat Feb 23 23:23:16 2019 +0800
+
+    delete old tor.PL fr.PL , merge them to one tfr.PL
+
+commit 9c65a6e00af2b83aba7c6a8e64a7aa48b113a8f3
+Author: LjessonS <ltww2274@163.com>
+Date:   Sat Feb 23 22:06:04 2019 +0800
+
+    update mac of progressBar
+
+commit dc66db12cbf8d20218aaf78ccf172f40d196cd2b
+Author: jd <tlqtangok@126.com>
+Date:   Sat Feb 23 21:43:23 2019 +0800
+
+    add or edit: build.PL at 20190223_2143
+
+commit b90eea0923a37152210dc3bc6be57f849d7d68b8
+Author: jd <tlqtangok@126.com>
+Date:   Sat Feb 23 21:36:21 2019 +0800
+
+    automatically change srv version string
+
+commit 17b9b2e044e1d22d7187c44ecb832b8bee48eb1e
+Author: jd <tlqtangok@126.com>
+Date:   Sat Feb 23 21:15:44 2019 +0800
+
+    add die or warn if version not match;  add stat info of net speed
+
+commit d723b14e43da4f51d67d3508fae91163a4414ded
+Author: jd <tlqtangok@126.com>
+Date:   Sat Feb 23 19:45:30 2019 +0800
+
+    add or edit: tor.PL fr.PL at 20190223_1945
+
+commit 44972e89c328402224f6b2a6a5086574482ea022
+Author: jd <tlqtangok@126.com>
+Date:   Sat Feb 23 16:35:41 2019 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20190223_1635
+
+commit 0f22ce5571043891c727586991a7cec3531bdc98
+Author: jd <tlqtangok@126.com>
+Date:   Sat Feb 23 16:31:18 2019 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20190223_1631
+
+commit 104c233d4083eb308bbfe9fcb788c84e309cdc67
+Author: jd <tlqtangok@126.com>
+Date:   Fri Feb 22 23:44:42 2019 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20190222_2344
+
+commit e8b563801c6f5de08dd1b16acc3eeb7ed7e738cf
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Fri Feb 22 23:30:52 2019 +0800
+
+    - edit rel/win/fr.exe rel/win/tor.exe at 20190222_2330
+
+commit 2d145d0f8fb7b4ef6d6b7f597ab4aadcc799ca4a
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Fri Feb 22 23:29:58 2019 +0800
+
+    - edit tor.PL fr.PL at 20190222_2329
+
+commit 654c702f460f0b6df38b4ab4dc132553bb063d73
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Fri Feb 22 23:28:22 2019 +0800
+
+    - edit tor.PL fr.PL at 20190222_2328
+
+commit d6ef92552800b9eb591484c62ca7789bff5ff3af
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Fri Feb 22 23:24:46 2019 +0800
+
+    new version 2019.02.22, with precise progress bar
+
+commit a6f8b9bde075de9fe1ea3a23db3e6c0a55ea0856
+Author: jd <tlqtangok@126.com>
+Date:   Fri Feb 22 16:33:37 2019 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20190222_1633
+
+commit 851df1d84168135294ad48f4b2e32bde95d47053
+Author: jd <tlqtangok@126.com>
+Date:   Fri Feb 22 16:30:25 2019 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20190222_1630
+
+commit ba31897c87d96106f5e8a194e2dcff8477e36175
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Thu Feb 21 22:51:41 2019 +0800
+
+    add or edit: tor.PL fr.PL ./rel/win/fr.exe ./rel/win/tor.exe at 20190221_2251
+
+commit 34bbbdbf74afca5ddc7f64cf165a113d49cdae29
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Thu Feb 21 22:50:19 2019 +0800
+
+    add or edit: tor.PL fr.PL build.PL at 20190221_2250
+
+commit 9250dda253fe62acea4289be92454016165258b4
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Thu Feb 21 22:31:50 2019 +0800
+
+    add or edit: tor.PL fr.PL at 20190221_2231
+
+commit 038228fa054c386ae3b6475e97579194dfa413b2
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Thu Feb 21 22:31:16 2019 +0800
+
+    - edit tor.PL fr.PL at 20190221_2231
+
+commit 0c6193039a73f953c586026fad695166a62bc8dd
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Thu Feb 21 22:22:00 2019 +0800
+
+    add progress bar
+
+commit dd2fe8d4d61bd9a2b5773b81a1605311bbd82a63
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Thu Feb 21 18:05:39 2019 +0800
+
+    add or edit: ./rel/win/tor.exe ./rel/win/fr.exe tor.PL fr.PL build.PL at 20190221_1805
+
+commit 0cff25e68a2a45c88ee74cd798955ff878d608ce
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Thu Feb 21 17:48:03 2019 +0800
+
+    - edit tor.PL fr.PL readme.txt at 20190221_1748
+
+commit c976c8b5c5371358d255a64e83c486a0c45d5c7c
+Author: jd <tlqtangok@126.com>
+Date:   Thu Feb 21 16:30:46 2019 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20190221_1630
+
+commit 845d4f165a206d4254fa0b76673538d9dc050b11
+Author: jd <tlqtangok@126.com>
+Date:   Thu Feb 21 16:29:53 2019 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20190221_1629
+
+commit 17a169c74466a0e160d6d5ba905b067b0d2469f2
+Author: jd <tlqtangok@126.com>
+Date:   Wed Feb 20 16:29:48 2019 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20190220_1629
+
+commit e0c59a07a7937e93b7d320381f620e7ba18c2b6c
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Wed Feb 20 11:10:47 2019 +0800
+
+    add or edit: ./rel/win/tor.exe ./rel/win/fr.exe tor.PL fr.PL build.PL at 20190220_1110
+
+commit 347381ba1aa4dbad13ecf4bcef677ea644223e1f
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Wed Feb 20 11:07:53 2019 +0800
+
+    add try catch for redis-new()
+
+commit 926d442d317402b4acbd2f0da1d8fbb8af438eab
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Tue Feb 19 23:26:40 2019 +0800
+
+    add or edit: ./rel/win/tor.exe ./rel/win/fr.exe tor.PL fr.PL build.PL at 20190219_2326
+
+commit 3d236f6ab18cd48e3be76f4f0deab048e19f8da9
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Tue Feb 19 23:08:12 2019 +0800
+
+    add logic for checking internet connection first
+
+commit 764c6d5ef98e8772514c96353548652c6e37346e
+Author: LjessonS <ltww2274@163.com>
+Date:   Tue Feb 19 18:19:27 2019 +0800
+
+    update mac tor fr version
+
+commit 4870a612eb137ad7f549febe60e95b85b0c89341
+Author: jd <tlqtangok@126.com>
+Date:   Tue Feb 19 16:29:34 2019 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20190219_1629
+
+commit 66832d5f1b33e3f13d25db9e4fee675ca99dfb1c
+Author: jd <tlqtangok@126.com>
+Date:   Tue Feb 19 16:29:00 2019 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20190219_1629
+
+commit f0e7f9009af1d50318491c282d225cf7d2e42372
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Tue Feb 19 11:14:59 2019 +0800
+
+    add or edit: tor.PL fr.PL at 20190219_1114
+
+commit 6152be83055799457d33a615abfe6ab9106fafe6
+Author: jd <tlqtangok@126.com>
+Date:   Tue Feb 19 11:03:28 2019 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20190219_1103
+
+commit 9b82046dd541ce1a44dd5cbf24192401ff56e729
+Author: jd <tlqtangok@126.com>
+Date:   Tue Feb 19 11:02:44 2019 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20190219_1102
+
+commit d6e547cbd7e0f41cc711aa60cd34dad0c90c3c9b
+Author: jd <tlqtangok@126.com>
+Date:   Tue Feb 19 11:00:41 2019 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20190219_1100
+
+commit e37e6ce701d6333bdc5f54fa117436e8d59f88b9
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Tue Feb 19 10:55:53 2019 +0800
+
+    add or edit: ./rel/win/tor.exe ./rel/win/fr.exe tor.PL fr.PL build.PL at 20190219_1055
+
+commit 70e630d7f941ab2a34bf1721ee8ccf692545a108
+Author: jd <tlqtangok@126.com>
+Date:   Mon Feb 18 17:19:38 2019 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20190218_1719
+
+commit d27a15048f279840b286aa5efe9cdb5aff54338d
+Author: jd <tlqtangok@126.com>
+Date:   Mon Feb 18 16:29:29 2019 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20190218_1629
+
+commit de97825fcb753994a9ae8c3e3e32cc801a2f7d66
+Author: jd <tlqtangok@126.com>
+Date:   Mon Feb 18 16:28:32 2019 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20190218_1628
+
+commit 051d7bd244bbed25fad2e2a5766d08c60d86116a
+Author: jd <tlqtangok@126.com>
+Date:   Mon Feb 18 15:34:46 2019 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20190218_1534
+
+commit c5124a6af404f951bd20722cb08632d2e1832d0a
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Mon Feb 18 15:28:16 2019 +0800
+
+    add version, in detail
+
+commit abeac922757268a47848fabc51b59804288a85e9
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Mon Feb 18 15:25:17 2019 +0800
+
+    add or edit: tor.PL fr.PL at 20190218_1525
+
+commit a3821eefd50464bb723a2a2562f489444d4bd731
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Mon Feb 18 14:48:24 2019 +0800
+
+    add dis pw and -v usage
+
+commit 9f32bea43420a2ec37fa50fe2477fdc87196bae8
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Mon Feb 18 09:10:39 2019 +0800
+
+    add pw for win
+
+commit 951d7634e007ae0afce110f0e3247478c53187f0
+Author: jd <tlqtangok@126.com>
+Date:   Sun Feb 17 22:29:24 2019 +0800
+
+    add pw support
+
+commit 96b9a31e949ebe4dca3bb342fd54ea5fe7af5322
+Author: jd <tlqtangok@126.com>
+Date:   Sun Feb 17 16:29:25 2019 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20190217_1629
+
+commit 3aeb44beecc2c8005f23636415d850be749b0522
+Author: jd <tlqtangok@126.com>
+Date:   Sun Feb 17 16:27:47 2019 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20190217_1627
+
+commit ac306e979857412a008477a7afc786a024ccc2a7
+Author: jd <tlqtangok@126.com>
+Date:   Sat Feb 16 16:29:21 2019 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20190216_1629
+
+commit f2a010e30dd1cba54ab2485d04644468689a78f6
+Author: jd <tlqtangok@126.com>
+Date:   Sat Feb 16 16:27:17 2019 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20190216_1627
+
+commit 3aaed8bf73d5ebd3d8c7f20a015a4152d929728e
+Author: jd <tlqtangok@126.com>
+Date:   Fri Feb 15 22:47:03 2019 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20190215_2247
+
+commit 6d36c74b62359df26655cb9ba627a536b135722f
+Author: jd <tlqtangok@126.com>
+Date:   Fri Feb 15 22:45:39 2019 +0800
+
+    add darwin support first time, thanks to ls
+
+commit cfd160c1fd1228328c7e9a56c88691905d5ff7f3
+Author: jd <tlqtangok@126.com>
+Date:   Fri Feb 15 16:29:17 2019 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20190215_1629
+
+commit be3692569657c070d0e823dfe9ed9e8fbe2f9d07
+Author: jd <tlqtangok@126.com>
+Date:   Fri Feb 15 16:26:05 2019 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20190215_1626
+
+commit d9d8f82b0c5b177c52a886941f3b335ccbc4e4f4
+Author: jd <tlqtangok@126.com>
+Date:   Thu Feb 14 16:29:13 2019 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20190214_1629
+
+commit d93c30b4b741c9608fcaec24dc15123218514976
+Author: jd <tlqtangok@126.com>
+Date:   Thu Feb 14 16:27:45 2019 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20190214_1627
+
+commit 901e09aa8e6724a9874b71959d7955f4472d46c3
+Author: jd <tlqtangok@126.com>
+Date:   Thu Feb 14 16:25:34 2019 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20190214_1625
+
+commit 26ad6d59fc6a2021e2a21f06077772a5122d5516
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Wed Feb 13 17:04:33 2019 +0800
+
+    add or edit: ./rel/win/tor.exe ./rel/win/fr.exe tor.PL fr.PL build.PL at 20190213_1704
+
+commit c6b48fe1fd5df7234842c047a139638a380ba655
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Wed Feb 13 17:02:56 2019 +0800
+
+    add or edit: ./rel/win/tor.exe ./rel/win/fr.exe tor.PL fr.PL build.PL at 20190213_1702
+
+commit 51ab385b34cfc9026d27c6c1d1ebf5eb74653f73
+Author: jd <tlqtangok@126.com>
+Date:   Wed Feb 13 16:50:42 2019 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20190213_1650
+
+commit 875cc7d966f71d01d06f8ec9be48a978e42da296
+Author: jd <tlqtangok@126.com>
+Date:   Tue Feb 12 16:50:37 2019 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20190212_1650
+
+commit 995b99ffa602962ee817af48f1590c4e925706b4
+Author: jd <tlqtangok@126.com>
+Date:   Mon Feb 11 16:50:33 2019 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20190211_1650
+
+commit 195d8b5a50faa6733f019f8b81f8ff5e9b01b099
+Author: jd <tlqtangok@126.com>
+Date:   Sun Feb 10 16:50:28 2019 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20190210_1650
+
+commit 15f78eac790eb600341f56e21460a469bf3b2827
+Author: jd <tlqtangok@126.com>
+Date:   Sat Feb 9 16:50:23 2019 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20190209_1650
+
+commit 29a179cbedc695153f62eb2c80ce62a3a3fe85a9
+Author: jd <tlqtangok@126.com>
+Date:   Fri Feb 8 16:50:19 2019 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20190208_1650
+
+commit d181d130a8cfea8293afe92982264d7e9554012a
+Author: jd <tlqtangok@126.com>
+Date:   Thu Feb 7 16:50:15 2019 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20190207_1650
+
+commit 944dc33945df9a899a0df5407783fedb51ec67d9
+Author: jd <tlqtangok@126.com>
+Date:   Wed Feb 6 16:50:10 2019 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20190206_1650
+
+commit 40e3ef07a316bd04ab5930c053ed4a9a5ee4cce7
+Author: jd <tlqtangok@126.com>
+Date:   Tue Feb 5 16:50:06 2019 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20190205_1650
+
+commit 0d36f8f0137712c965c89aa1cfc7d9e6374ddd9f
+Author: jd <tlqtangok@126.com>
+Date:   Mon Feb 4 16:50:02 2019 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20190204_1650
+
+commit 27efe913ab3adf474505901dada8b5de834fe641
+Author: jd <tlqtangok@126.com>
+Date:   Sun Feb 3 16:49:58 2019 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20190203_1649
+
+commit 844a2f58432159f75b985eafe0817f622a7e0a35
+Author: jd <tlqtangok@126.com>
+Date:   Sat Feb 2 16:49:54 2019 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20190202_1649
+
+commit b3fd899db92468ba0616fcf6d8ef96844cb38bb8
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Fri Feb 1 17:52:17 2019 +0800
+
+    add or edit: ./rel/win/tor.exe ./rel/win/fr.exe tor.PL fr.PL build.PL at 20190201_1752
+
+commit 9f6620b5f03063a5d32feba153879c0163293e5c
+Author: jd <tlqtangok@126.com>
+Date:   Fri Feb 1 17:18:08 2019 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20190201_1718
+
+commit 8e4c757447d7f7f43aa4efda2fb2d3dce44f3de8
+Author: jd <tlqtangok@126.com>
+Date:   Fri Feb 1 17:17:06 2019 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20190201_1717
+
+commit bcfd35d0863af6a565f3ed6f68f6baf9501b6420
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Fri Feb 1 17:11:11 2019 +0800
+
+    add or edit: ./rel/win/tor.exe ./rel/win/fr.exe tor.PL fr.PL build.PL at 20190201_1711
+
+commit 7880a61f25000fe9345eff8c6b248246bb3f29b0
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Fri Feb 1 17:09:36 2019 +0800
+
+    add or edit: tor.PL fr.PL at 20190201_1709
+
+commit cd7a05137e8c4d6fdfe01b19979c65a76137c5fc
+Author: jd <tlqtangok@126.com>
+Date:   Fri Feb 1 16:49:49 2019 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20190201_1649
+
+commit 07d31141d2d710e3a3131c17a22c7c90380b1821
+Author: jd <tlqtangok@126.com>
+Date:   Fri Feb 1 16:39:35 2019 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20190201_1639
+
+commit e73cd47198c17cb17f47f8341a2ca5ad02d7343f
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Fri Feb 1 16:29:57 2019 +0800
+
+    add or edit: /mnt/hgfs/et/git/t/t/rel/win/fr.exe /mnt/hgfs/et/git/t/t/rel/win/tor.exe tor.PL fr.PL at 20190201_1629
+
+commit 1054cd7baecf14bb81372ba9d819d9cef8f87aef
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Fri Feb 1 16:28:18 2019 +0800
+
+    win tor, with folder support
+
+commit 8034e1fc859f9f3d1cf97c8c325d92660c618ff7
+Author: jd <tlqtangok@126.com>
+Date:   Fri Feb 1 10:55:30 2019 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20190201_1055
+
+commit 57414bb20e81064e2a8cbca6be1457b002798e01
+Author: jd <tlqtangok@126.com>
+Date:   Thu Jan 31 10:55:07 2019 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20190131_1055
+
+commit 9b9c366c797443f3c2c607a41b34d7a43c832ee9
+Author: jd <tlqtangok@126.com>
+Date:   Wed Jan 30 10:54:42 2019 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20190130_1054
+
+commit 864e8897175ed21ad91e452791465b19f67695cc
+Author: jd <tlqtangok@126.com>
+Date:   Tue Jan 29 10:54:14 2019 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20190129_1054
+
+commit b7779ec1440f94b1d46a1f885ee6669b3e320d46
+Author: jd <tlqtangok@126.com>
+Date:   Mon Jan 28 10:53:52 2019 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20190128_1053
+
+commit ed5a7958345a157cd19cd6ab90801d43a6a04191
+Author: jd <tlqtangok@126.com>
+Date:   Sun Jan 27 10:53:35 2019 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20190127_1053
+
+commit 059d2fa9108c2d6e0db43f561ad33371424c8e8c
+Author: jd <tlqtangok@126.com>
+Date:   Sat Jan 26 10:53:15 2019 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20190126_1053
+
+commit c92fe5eb93fd41c593ae0a7da018263c7b430fdc
+Author: jd <tlqtangok@126.com>
+Date:   Fri Jan 25 10:52:52 2019 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20190125_1052
+
+commit 48d26d199c70356bb33645b1f40da9866a104787
+Author: jd <tlqtangok@126.com>
+Date:   Thu Jan 24 10:52:23 2019 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20190124_1052
+
+commit b827c7ccf3af9c8226b65fe165c2efb31999d1bc
+Author: jd <tlqtangok@126.com>
+Date:   Wed Jan 23 10:52:00 2019 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20190123_1052
+
+commit eac09a54c972aaca040462d8bb8cc6614151121b
+Author: jd <tlqtangok@126.com>
+Date:   Tue Jan 22 10:51:37 2019 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20190122_1051
+
+commit d35728ced9c03b8573516c317363d872a78146dc
+Author: jd <tlqtangok@126.com>
+Date:   Mon Jan 21 10:51:12 2019 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20190121_1051
+
+commit 86451514f7a266e9b0c9cb3633b4d2471bfa6f41
+Author: jd <tlqtangok@126.com>
+Date:   Sun Jan 20 10:50:48 2019 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20190120_1050
+
+commit d6514032757d2c0184d67652dbe6c3f29e687a3c
+Author: jd <tlqtangok@126.com>
+Date:   Sat Jan 19 10:50:28 2019 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20190119_1050
+
+commit 1d983649c2acf9da9d93f114097107152033762b
+Author: jd <tlqtangok@126.com>
+Date:   Fri Jan 18 10:50:04 2019 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20190118_1050
+
+commit 544cb3f83d86ac6ef299572284c50d762a4c8541
+Author: jd <tlqtangok@126.com>
+Date:   Thu Jan 17 10:49:40 2019 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20190117_1049
+
+commit adbdbea2066bf6e903ebf10e3c3a337ee64987e9
+Author: jd <tlqtangok@126.com>
+Date:   Wed Jan 16 10:49:11 2019 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20190116_1049
+
+commit f6c1c013a51a7021fc5e3385f0c89cf4d39c6507
+Author: jd <tlqtangok@126.com>
+Date:   Tue Jan 15 10:48:47 2019 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20190115_1048
+
+commit dcc3dd28bdb3ec2c43098337d511d4c6db73b560
+Author: jd <tlqtangok@126.com>
+Date:   Mon Jan 14 10:48:20 2019 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20190114_1048
+
+commit 70b946e4d3390384646a5814bf0be2721a41ec8c
+Author: jd <tlqtangok@126.com>
+Date:   Sun Jan 13 10:47:57 2019 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20190113_1047
+
+commit 7606af23b5ef61cb7549a48dca358822379573c1
+Author: jd <tlqtangok@126.com>
+Date:   Sat Jan 12 10:47:35 2019 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20190112_1047
+
+commit 946cbc92f146462632eb33be5c8b882a6b93c09b
+Author: jd <tlqtangok@126.com>
+Date:   Fri Jan 11 10:47:13 2019 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20190111_1047
+
+commit 2934fff3f9a6c3d5e1320847360985314c866ee6
+Author: jd <tlqtangok@126.com>
+Date:   Thu Jan 10 18:00:33 2019 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20190110_1800
+
+commit f51485b34f2770ac2d9bc01d0c020957fed76b12
+Author: jd <tlqtangok@126.com>
+Date:   Thu Jan 10 10:46:47 2019 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20190110_1046
+
+commit d7f254a40b4cc760c3b13fd0f90c340fe0b2151f
+Author: jd <tlqtangok@126.com>
+Date:   Wed Jan 9 18:00:28 2019 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20190109_1800
+
+commit 43b485eea73395a4f578126d93d4a508c0c05157
+Author: jd <tlqtangok@126.com>
+Date:   Wed Jan 9 10:46:22 2019 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20190109_1046
+
+commit 33dc11a3a6ae95ba39cd28ad0dd4bfa746573d71
+Author: jd <tlqtangok@126.com>
+Date:   Tue Jan 8 18:00:23 2019 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20190108_1800
+
+commit cb916dafd4d58f29a53a6ac858903576335a176a
+Author: jd <tlqtangok@126.com>
+Date:   Tue Jan 8 10:45:56 2019 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20190108_1045
+
+commit 4de710c9118fe6088542da4678dcee80f8d5868e
+Author: jd <tlqtangok@126.com>
+Date:   Mon Jan 7 18:00:19 2019 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20190107_1800
+
+commit 48db4476d842f4c2e201ba4ffed4aa6708292858
+Author: jd <tlqtangok@126.com>
+Date:   Mon Jan 7 10:45:30 2019 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20190107_1045
+
+commit 416ae0e00c97550d93b763ccf3da30670338296a
+Author: jd <tlqtangok@126.com>
+Date:   Sun Jan 6 18:00:14 2019 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20190106_1800
+
+commit ce2ca55f2e7a15e0f82dd6b3b316fe5a40bbff9b
+Author: jd <tlqtangok@126.com>
+Date:   Sun Jan 6 10:45:08 2019 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20190106_1045
+
+commit b622bfd44b88973f0f16d8d7b53b461322385f65
+Author: jd <tlqtangok@126.com>
+Date:   Sat Jan 5 18:00:10 2019 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20190105_1800
+
+commit 42f345fbaa86426b8dae1fdc577af9c8d0cd4e75
+Author: jd <tlqtangok@126.com>
+Date:   Sat Jan 5 10:44:43 2019 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20190105_1044
+
+commit 3d783018da8dcd5aa2794abbd09004f108338525
+Author: jd <tlqtangok@126.com>
+Date:   Fri Jan 4 18:00:05 2019 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20190104_1800
+
+commit b0a35db4f33f8cbacb0c796e176113b33f013d77
+Author: jd <tlqtangok@126.com>
+Date:   Fri Jan 4 10:44:19 2019 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20190104_1044
+
+commit 632d43343abca140d7e541f2792135cc5bc841da
+Author: jd <tlqtangok@126.com>
+Date:   Thu Jan 3 18:00:00 2019 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20190103_1800
+
+commit 834f3fad741c2f49049acce6805962d6690a6386
+Author: jd <tlqtangok@126.com>
+Date:   Thu Jan 3 10:43:53 2019 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20190103_1043
+
+commit 66a4ed98873812edba1d7d74248e6909631fd591
+Author: jd <tlqtangok@126.com>
+Date:   Wed Jan 2 17:59:56 2019 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20190102_1759
+
+commit c06a1253a478ac89ceec565db9debbbbfa5e7066
+Author: jd <tlqtangok@126.com>
+Date:   Wed Jan 2 10:43:26 2019 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20190102_1043
+
+commit 567fb66e8d03e4bceeda01d669bd0e78e4da8954
+Author: jd <tlqtangok@126.com>
+Date:   Tue Jan 1 17:59:51 2019 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20190101_1759
+
+commit dd8ca157d0e0592180e647c7ee6e0f8edae2f88b
+Author: jd <tlqtangok@126.com>
+Date:   Tue Jan 1 10:43:01 2019 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20190101_1043
+
+commit 1af9646f2078d81422efd533a55f9d67588f509f
+Author: jd <tlqtangok@126.com>
+Date:   Mon Dec 31 17:59:46 2018 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20181231_1759
+
+commit a43891d493d6e1d9ea73085c22514dfe430e3407
+Author: jd <tlqtangok@126.com>
+Date:   Mon Dec 31 10:42:37 2018 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20181231_1042
+
+commit 88dfcbbade811ae78f3c5be07c3b5c6f6f5309aa
+Author: jd <tlqtangok@126.com>
+Date:   Sun Dec 30 17:59:41 2018 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20181230_1759
+
+commit b9d406edc5d3c5e25c428994d518554585cacd9d
+Author: jd <tlqtangok@126.com>
+Date:   Sun Dec 30 10:42:10 2018 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20181230_1042
+
+commit 0ffacfb22e72598954772cc8436e9e8586e24f5d
+Author: jd <tlqtangok@126.com>
+Date:   Sat Dec 29 17:59:36 2018 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20181229_1759
+
+commit 3a46848a17fac8b49407ad1dbd04b333c8531b1b
+Author: jd <tlqtangok@126.com>
+Date:   Sat Dec 29 10:41:41 2018 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20181229_1041
+
+commit 2fbfc6c45d567ae6aefe464f0dca0617b89d7362
+Author: jd <tlqtangok@126.com>
+Date:   Fri Dec 28 17:59:31 2018 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20181228_1759
+
+commit b96f21e8d91ddc41b5355bf7f9a94efa1f3ea437
+Author: jd <tlqtangok@126.com>
+Date:   Fri Dec 28 10:41:14 2018 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20181228_1041
+
+commit acaa4f169ab405da8841a6be9b66ebc3d0e72c00
+Author: jd <tlqtangok@126.com>
+Date:   Thu Dec 27 17:59:26 2018 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20181227_1759
+
+commit 19d0365e36097891bb2e5d5dff707b54a379d3dc
+Author: jd <tlqtangok@126.com>
+Date:   Thu Dec 27 10:40:47 2018 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20181227_1040
+
+commit a0d52e5c7c485218aa14205bb832869c0c9f4e1c
+Author: jd <tlqtangok@126.com>
+Date:   Wed Dec 26 17:59:22 2018 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20181226_1759
+
+commit e9b2f38ad13aecb377ca93c7c50ade4ba20a2ab6
+Author: jd <tlqtangok@126.com>
+Date:   Wed Dec 26 10:40:20 2018 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20181226_1040
+
+commit 33f28c8158291170698945c6f625622acdb00065
+Author: jd <tlqtangok@126.com>
+Date:   Tue Dec 25 17:59:17 2018 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20181225_1759
+
+commit 0dc3d439a5feae4b7f0fd9874360b0b2db5f9414
+Author: jd <tlqtangok@126.com>
+Date:   Tue Dec 25 10:39:53 2018 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20181225_1039
+
+commit 10460e0e61bb8f5837d4883f919481eb9b50c500
+Author: jd <tlqtangok@126.com>
+Date:   Mon Dec 24 17:59:12 2018 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20181224_1759
+
+commit c4d2442adff3a9aa77f9794198f7f72561118dbb
+Author: jd <tlqtangok@126.com>
+Date:   Mon Dec 24 10:39:26 2018 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20181224_1039
+
+commit 4694c66888822bd1ae9fd108cb006fd33f042f0a
+Author: jd <tlqtangok@126.com>
+Date:   Sun Dec 23 17:59:08 2018 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20181223_1759
+
+commit b5495aad5f53c9517e0c2515c0849f183d338cc1
+Author: jd <tlqtangok@126.com>
+Date:   Sun Dec 23 10:39:00 2018 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20181223_1039
+
+commit dc0a4d178707960fcf95b31637a619d96cba71cf
+Author: jd <tlqtangok@126.com>
+Date:   Sat Dec 22 17:59:03 2018 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20181222_1759
+
+commit 988e7f92b77c2f155e03b83d251551f5976e5c68
+Author: jd <tlqtangok@126.com>
+Date:   Sat Dec 22 10:38:33 2018 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20181222_1038
+
+commit 68f7d83ebdc6344aa8586f047e77df62dcfb759d
+Author: jd <tlqtangok@126.com>
+Date:   Fri Dec 21 17:58:59 2018 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20181221_1758
+
+commit fad7baf36924bb23c4f98a57269186dcb5bbde87
+Author: jd <tlqtangok@126.com>
+Date:   Fri Dec 21 10:38:06 2018 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20181221_1038
+
+commit 531859c71b54b4653186501293f5406de6350e6d
+Author: jd <tlqtangok@126.com>
+Date:   Thu Dec 20 17:58:54 2018 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20181220_1758
+
+commit cb6580f1b505fca28d259dd08c0b5ef983e54d03
+Author: jd <tlqtangok@126.com>
+Date:   Thu Dec 20 10:37:40 2018 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20181220_1037
+
+commit c8db19a1a1f0977a737f9539909b48ca7626c1f2
+Author: jd <tlqtangok@126.com>
+Date:   Wed Dec 19 17:58:49 2018 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20181219_1758
+
+commit 20795b004ca90fc4ffb08db65a072e88f95e185a
+Author: jd <tlqtangok@126.com>
+Date:   Wed Dec 19 10:37:09 2018 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20181219_1037
+
+commit a42122ece6023b2b1052472dc4a996e67a028343
+Author: jd <tlqtangok@126.com>
+Date:   Tue Dec 18 17:58:45 2018 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20181218_1758
+
+commit 0628bdc18891d496f39ecb52314e7c6fbdbd5c4b
+Author: jd <tlqtangok@126.com>
+Date:   Tue Dec 18 10:36:41 2018 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20181218_1036
+
+commit b10648493a6dff3a28ce6817978b643f4b3a7d7b
+Author: jd <tlqtangok@126.com>
+Date:   Mon Dec 17 17:58:40 2018 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20181217_1758
+
+commit 975e622a085fbe2ae5fc71d865a3da66f979a551
+Author: jd <tlqtangok@126.com>
+Date:   Mon Dec 17 10:36:14 2018 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20181217_1036
+
+commit 8d13612172b473b13b9fd7d8f515eb9201186e2e
+Author: jd <tlqtangok@126.com>
+Date:   Sun Dec 16 17:58:35 2018 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20181216_1758
+
+commit ae42bbc56919000789fb3e812599b255bfdd6c70
+Author: jd <tlqtangok@126.com>
+Date:   Sun Dec 16 12:43:09 2018 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20181216_1243
+
+commit d8fd2060b386e4bde0684785f35cf93b524afdf2
+Author: jd <tlqtangok@126.com>
+Date:   Sun Dec 16 12:41:16 2018 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20181216_1241
+
+commit c35a59a7b26f3c6c9b86613dde4f6b9c0b793b15
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Sun Dec 16 12:39:57 2018 +0800
+
+    add or edit: ./rel/win/tor.exe ./rel/win/fr.exe tor.PL fr.PL build.PL at 20181216_1239
+
+commit ce808dcf481507a0aeef56d17172b274f569b7de
+Author: jd <tlqtangok@126.com>
+Date:   Sun Dec 16 10:35:40 2018 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20181216_1035
+
+commit 917ba68f006aa2d7c9016323fa34b261a6f0f511
+Author: jd <tlqtangok@126.com>
+Date:   Sat Dec 15 17:58:30 2018 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20181215_1758
+
+commit 6f4561d18535429efae068c471b46ff9ab744ab2
+Author: jd <tlqtangok@126.com>
+Date:   Sat Dec 15 10:35:15 2018 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20181215_1035
+
+commit e8515fd2ca9c442618f93911904c5573d09b7012
+Author: jd <tlqtangok@126.com>
+Date:   Fri Dec 14 17:58:25 2018 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20181214_1758
+
+commit 4f2c360ac170002ed6b522b3f73f5bc9945c4e71
+Author: jd <tlqtangok@126.com>
+Date:   Fri Dec 14 10:34:47 2018 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20181214_1034
+
+commit 446d8fd11e83ecb132c3dcd9ebb216823acc5edd
+Author: LjessonS <ltww2274@163.com>
+Date:   Fri Dec 14 10:16:35 2018 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20181214_1016
+
+commit debab7fedca80e23aaf258be287ff8187b3c6565
+Author: jd <tlqtangok@126.com>
+Date:   Thu Dec 13 17:58:18 2018 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20181213_1758
+
+commit 1676ab448ad0ac516b5ba8151b77c127586f1441
+Author: jd <tlqtangok@126.com>
+Date:   Thu Dec 13 10:34:15 2018 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20181213_1034
+
+commit fc1246daacebab11b468f82fa55b36a90c379900
+Author: LjessonS <ltww2274@163.com>
+Date:   Thu Dec 13 10:16:18 2018 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20181213_1016
+
+commit 9edfabfdaf0bb40aa1724ff37ab32fae7bd9748e
+Author: jd <tlqtangok@126.com>
+Date:   Wed Dec 12 17:58:12 2018 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20181212_1758
+
+commit 4e33651977453e8793df6aeae6b50d7bc0759f23
+Author: jd <tlqtangok@126.com>
+Date:   Wed Dec 12 10:33:44 2018 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20181212_1033
+
+commit 03b450407e933393cd957cf467e4fc231d724856
+Author: LjessonS <ltww2274@163.com>
+Date:   Wed Dec 12 10:15:58 2018 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20181212_1015
+
+commit df5aa9019ea543e45f0b726aaaf1f053bb8577aa
+Author: jd <tlqtangok@126.com>
+Date:   Tue Dec 11 20:53:04 2018 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20181211_2053
+
+commit 1d83820745beb8b96f303ece0db841c5ab42c51a
+Author: jd <tlqtangok@126.com>
+Date:   Tue Dec 11 17:58:04 2018 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20181211_1758
+
+commit 5114589fae8a4570ffcf102a770f776b70641c8b
+Author: LjessonS <ltww2274@163.com>
+Date:   Tue Dec 11 10:15:41 2018 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20181211_1015
+
+commit 80c82b5830318a921e4a184ebd0beadbd2a0e31f
+Author: jd <tlqtangok@126.com>
+Date:   Tue Dec 11 09:18:45 2018 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20181211_0918
+
+commit 8430d97000954e353ff07f64270021b219cd7438
+Author: jd <tlqtangok@126.com>
+Date:   Mon Dec 10 20:52:30 2018 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20181210_2052
+
+commit 92f46357e1acb0fc3aaa1c2c01b9eacb95594ff8
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Mon Dec 10 19:23:13 2018 +0800
+
+    add or edit: ./rel/win/tor.exe ./rel/win/fr.exe tor.PL fr.PL build.PL at 20181210_1923
+
+commit b60e68e30b458396ffd1642fbd1ee6a36214793c
+Author: jd <tlqtangok@126.com>
+Date:   Mon Dec 10 17:57:58 2018 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20181210_1757
+
+commit 7b4e858d6d7cad5ca0a261c219fb217e277c4fad
+Author: LjessonS <ltww2274@163.com>
+Date:   Mon Dec 10 10:15:18 2018 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20181210_1015
+
+commit 4788e1030c31d8624311aa0d879152f1f963bf1f
+Author: jd <tlqtangok@126.com>
+Date:   Sun Dec 9 20:52:34 2018 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20181209_2052
+
+commit d842e675c5610c957a5db2cac7de6580001ea95f
+Author: jd <tlqtangok@126.com>
+Date:   Sun Dec 9 20:51:48 2018 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20181209_2051
+
+commit 1e20959885bc48bed70e52aa729f4775d7e01b50
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Sun Dec 9 20:40:32 2018 +0800
+
+    add or edit: ./rel/win/tor.exe ./rel/win/fr.exe tor.PL fr.PL build.PL at 20181209_2040
+
+commit 3334e223467d1f5089ded08b6321b54f090a604f
+Author: jd <tlqtangok@126.com>
+Date:   Sun Dec 9 17:57:51 2018 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20181209_1757
+
+commit 8b99788542c733527daa5df525ad18c7395dab6e
+Author: LjessonS <ltww2274@163.com>
+Date:   Sun Dec 9 10:14:55 2018 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20181209_1014
+
+commit 1b3890a5e9d0958863dfc37b9ab6ff7d2879689e
+Author: jd <tlqtangok@126.com>
+Date:   Sat Dec 8 17:57:47 2018 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20181208_1757
+
+commit e44a3ad551aeaeb2aa04ab6760aefdc1828739bc
+Author: LjessonS <ltww2274@163.com>
+Date:   Sat Dec 8 10:14:39 2018 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20181208_1014
+
+commit 94911a340a144af1251da46e503cfe3ef4859008
+Author: jd <tlqtangok@126.com>
+Date:   Fri Dec 7 17:57:42 2018 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20181207_1757
+
+commit 443e46e1c58fa792eb2269353afca19cab02979b
+Author: LjessonS <ltww2274@163.com>
+Date:   Fri Dec 7 10:14:23 2018 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20181207_1014
+
+commit 352e81cf6232d5bb56113420fe899d9493d52228
+Author: jd <tlqtangok@126.com>
+Date:   Thu Dec 6 17:57:37 2018 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20181206_1757
+
+commit cdcb38d0121d569030dba652a7a40d9df89a3ab0
+Author: LjessonS <ltww2274@163.com>
+Date:   Thu Dec 6 10:14:09 2018 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20181206_1014
+
+commit 9f4dd8dcc4a14a55751bc9f3451d46208c3f7444
+Author: jd <tlqtangok@126.com>
+Date:   Wed Dec 5 17:57:33 2018 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20181205_1757
+
+commit cffb588989d5121ed76ca2e19262f45929a2d1ac
+Author: LjessonS <ltww2274@163.com>
+Date:   Wed Dec 5 10:13:56 2018 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20181205_1013
+
+commit a7b3430e55605f806d73522b5c8fe26a1164156c
+Author: jd <tlqtangok@126.com>
+Date:   Tue Dec 4 17:57:28 2018 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20181204_1757
+
+commit 758b7a3758de43107c4cc9285d9c3c1f90bfa746
+Author: jd <tlqtangok@126.com>
+Date:   Tue Dec 4 10:54:03 2018 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20181204_1054
+
+commit 24ac734228d5b54274cd30c5e3564516a880969a
+Author: LjessonS <ltww2274@163.com>
+Date:   Tue Dec 4 10:52:31 2018 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20181204_1052
+
+commit 66a050d1fdd9ce16f2fc9d6c1c670850a9e58b52
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Tue Dec 4 10:50:53 2018 +0800
+
+    add or edit: ./rel/win/tor.exe ./rel/win/fr.exe tor.PL fr.PL build.PL at 20181204_1050
+
+commit 4fc5dd19423daa2467c8bda21632aa5986f6c33b
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Tue Dec 4 10:35:12 2018 +0800
+
+    add or edit: ./rel/win/tor.exe ./rel/win/fr.exe tor.PL fr.PL build.PL at 20181204_1035
+
+commit 30f0cba62aee620fde62eb39db230dc019e05b05
+Author: LjessonS <ltww2274@163.com>
+Date:   Tue Dec 4 10:13:41 2018 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20181204_1013
+
+commit a82189d80f6d002d1b0eb915d9067c286699c7bf
+Author: jd <tlqtangok@126.com>
+Date:   Mon Dec 3 17:57:24 2018 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20181203_1757
+
+commit 0d75d4a0d84574094d9fc8a39e05b7f0d6e81060
+Author: jd <tlqtangok@126.com>
+Date:   Mon Dec 3 13:49:07 2018 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20181203_1349
+
+commit 38bbdd53b86e2af138e60a58252589abd15e19fc
+Author: LjessonS <ltww2274@163.com>
+Date:   Mon Dec 3 10:13:26 2018 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20181203_1013
+
+commit 1d6325f76fef5e8e4459dc6f40452442b5b5d770
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Mon Dec 3 09:52:58 2018 +0800
+
+    add or edit: ./rel/win/tor.exe ./rel/win/fr.exe tor.PL fr.PL build.PL at 20181203_0952
+
+commit 011c22f2544791eb58618721cad5bfc46b1aeff6
+Author: jd <tlqtangok@126.com>
+Date:   Sun Dec 2 17:57:20 2018 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20181202_1757
+
+commit 823e997414a98edc96bd8ea568ed6185b8327402
+Author: jd <tlqtangok@126.com>
+Date:   Sat Dec 1 17:57:16 2018 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20181201_1757
+
+commit ca8061beeb920bb1e7d570ac76dc41f6102c469a
+Author: jd <tlqtangok@126.com>
+Date:   Fri Nov 30 17:57:12 2018 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20181130_1757
+
+commit 440027239dd6efce15c188bca908cc0b7c5917f1
+Author: jd <tlqtangok@126.com>
+Date:   Thu Nov 29 17:57:08 2018 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20181129_1757
+
+commit 194e6b581a41b4add1bc9387cbaffeee6eecbb65
+Author: jd <tlqtangok@126.com>
+Date:   Thu Nov 29 17:00:00 2018 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20181129_1700
+
+commit 74103bc1d83ee136679e3ea4e6726e5b5d97a5a1
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Thu Nov 29 16:38:52 2018 +0800
+
+    add or edit: tor.PL fr.PL at 20181129_1638
+
+commit 0d5d6f76fa94a52dcc1384e07dca08e549c47036
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Thu Nov 29 16:32:04 2018 +0800
+
+    add gzip filename, and parse it
+
+commit a16a69aaf56532404941607111314c874b94ed67
+Author: jd <tlqtangok@126.com>
+Date:   Wed Nov 28 17:57:03 2018 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20181128_1757
+
+commit 6c74df487f8100b7078d2d77f9aa63e0d69828bb
+Author: jd <tlqtangok@126.com>
+Date:   Tue Nov 27 17:56:59 2018 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20181127_1756
+
+commit 2048246386a748162accc95f90d6389136956954
+Author: jd <tlqtangok@126.com>
+Date:   Mon Nov 26 17:56:55 2018 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20181126_1756
+
+commit 043a79af726b1145558e846707b8b6c5e15dc43c
+Author: jd <tlqtangok@126.com>
+Date:   Sun Nov 25 17:56:52 2018 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20181125_1756
+
+commit 51dcea3238b6ac145c57fe7dde3f061c8cb46b94
+Author: jd <tlqtangok@126.com>
+Date:   Sat Nov 24 17:56:48 2018 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20181124_1756
+
+commit d745faf178dbb56e77472517bf4abcfd049cea24
+Author: jd <tlqtangok@126.com>
+Date:   Fri Nov 23 21:42:27 2018 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20181123_2142
+
+commit 69c4cc118e295aa6400e598da613f013028c5827
+Author: jd <tlqtangok@126.com>
+Date:   Fri Nov 23 21:39:34 2018 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20181123_2139
+
+commit 9749ab5d5cb084938b770ac9ab39b253e6ae86e1
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Fri Nov 23 21:32:06 2018 +0800
+
+    increase up to 50m
+
+commit 7b67f35118a10eee95cfa99512acb16eacbd6050
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Fri Nov 23 21:30:39 2018 +0800
+
+    add or edit: tor.PL at 20181123_2130
+
+commit ffa87675d402b44e92e9db30709c0d2329218889
+Author: jd <tlqtangok@126.com>
+Date:   Fri Nov 23 17:56:45 2018 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20181123_1756
+
+commit 136ae4d2aed6e9127364380e5bc3a67ed467b2d5
+Author: jd <tlqtangok@126.com>
+Date:   Fri Nov 23 17:40:19 2018 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20181123_1740
+
+commit 74f04cc78fbb2546b5b43f94187533b30cef3cef
+Author: jd <tlqtangok@126.com>
+Date:   Fri Nov 23 16:34:30 2018 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20181123_1634
+
+commit 5132fd3be3efe2dac1df0f05f9c6a69cf96ba836
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Fri Nov 23 11:01:28 2018 +0800
+
+    up to 20M, also win exe
+
+commit ceec524b0c04bdb9582dec72e3a5a761b0f90706
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Fri Nov 23 10:25:51 2018 +0800
+
+    add or edit: /mnt/hgfs/et/git/t/t/rel/win/fr.exe /mnt/hgfs/et/git/t/t/rel/win/tor.exe build.PL fr.PL tor.PL at 20181123_1025
+
+commit d65e12dae1146d0a920dc74abe566564f94f846a
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Fri Nov 23 09:49:16 2018 +0800
+
+    add or edit: ./rel/win/tor.exe ./rel/win/fr.exe at 20181123_0949
+
+commit dd10cca1e4abae825eb0457ad69b9414982f897d
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Fri Nov 23 09:05:05 2018 +0800
+
+    add or edit: ./rel/win/tor.exe ./rel/win/fr.exe tor.PL fr.PL build.PL at 20181123_0905
+
+commit 3b811c6c588ccdf98031a6071b66577b145a64b5
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Fri Nov 23 09:04:35 2018 +0800
+
+    add or edit: fr.PL at 20181123_0904
+
+commit bcf10e2b06a49d030bb6580ce8d41bda9c50f445
+Author: jd <tlqtangok@126.com>
+Date:   Thu Nov 22 17:56:41 2018 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20181122_1756
+
+commit 34aaf6420c28f8ee3c017b095abaff11e7e319f8
+Author: jd <tlqtangok@126.com>
+Date:   Thu Nov 22 17:39:26 2018 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20181122_1739
+
+commit a23e94b0ee6b03ec386f0a2f8aa98c260f4872de
+Author: jd <tlqtangok@126.com>
+Date:   Wed Nov 21 17:56:38 2018 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20181121_1756
+
+commit 3e87b77ec5da84acf7714dfb82451e5da019dea3
+Author: jd <tlqtangok@126.com>
+Date:   Wed Nov 21 17:39:01 2018 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20181121_1739
+
+commit 0bc376f77d0a6a7eb1969c6f0dd16f0ff3df5bfc
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Wed Nov 21 15:33:32 2018 +0800
+
+    add or edit: ./rel/win/tor.exe ./rel/win/fr.exe at 20181121_1533
+
+commit d47586bc9dc5dddebf86d684eb17d16d1bb3614b
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Wed Nov 21 15:23:54 2018 +0800
+
+    2k
+
+commit fcf853f522dfab83ab7c94db564d97a9ca925a73
+Author: jd <tlqtangok@126.com>
+Date:   Tue Nov 20 17:56:33 2018 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20181120_1756
+
+commit ec01b0045201c7ea7610877df2f6d4cd867943f6
+Author: jd <tlqtangok@126.com>
+Date:   Tue Nov 20 17:46:40 2018 +0800
+
+    add or edit: ./rel/linux/tor ./rel/linux/fr at 20181120_1746
+
+commit c07dd7e80cf65f070d0487b0cf8dcee01f57c464
+Author: jd <tlqtangok@126.com>
+Date:   Tue Nov 20 17:38:16 2018 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20181120_1738
+
+commit 622370b168386fc1154ced4640dce3154a625094
+Author: jd <tlqtangok@126.com>
+Date:   Tue Nov 20 17:34:27 2018 +0800
+
+    add or edit: ./rel/pi/tor ./rel/pi/fr at 20181120_1734
+
+commit 13b4e56b9b3b999f6989abb52f130b0597600398
+Author: jd <tlqtangok@126.com>
+Date:   Tue Nov 20 16:38:59 2018 +0800
+
+    add pi
+
+commit df4873e53a2ac148eb48797a92845c6276f07354
+Author: jd <tlqtangok@126.com>
+Date:   Tue Nov 20 16:36:09 2018 +0800
+
+    add linux tor fr
+
+commit 49b1db368ac020f790f02f6cd88eea22a43a1170
+Author: jd <tlqtangok@126.com>
+Date:   Tue Nov 20 16:35:45 2018 +0800
+
+    add linux tor fr
+
+commit c98f5b9ac35b1dcc8aa1e6aebf196e9c289a850a
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Tue Nov 20 16:33:17 2018 +0800
+
+    add win exe
+
+commit 731e3883af43f5e2c71ab13d0fbb2f2fa3f74875
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Tue Nov 20 16:31:47 2018 +0800
+
+    no assert redis-cli
+
+commit dde6b0faaf9f49cbd9fcb65e804773f8bf880ac6
+Author: jd <tlqtangok@126.com>
+Date:   Tue Nov 20 15:11:17 2018 +0800
+
+    add pi binary tor,fr
+
+commit e338d3c338bfcfc5775c2e2f105a43de79df0adb
+Author: jd <tlqtangok@126.com>
+Date:   Tue Nov 20 15:08:35 2018 +0800
+
+    perl
+
+commit 479612c59374f4e53cb5c7974b537d2cba7d9db2
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Tue Nov 20 15:05:46 2018 +0800
+
+    add or edit: fr.exe tor.exe at 20181120_1505
+
+commit 7d44efc6d10d87cb32e00872d0c0813cac5a1e76
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Tue Nov 20 15:03:30 2018 +0800
+
+    add or edit: tor.PL fr.PL build.PL at 20181120_1503
+
+commit 558f24e6f65c2d4f30db43378d7d63af1465fd9b
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Tue Nov 20 11:21:38 2018 +0800
+
+    del old tor, fr , add win exe
+
+commit a7f3601d89f799c99967388b4791219b4ffa49cf
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Tue Nov 20 11:18:47 2018 +0800
+
+    if win, then gen exe
+
+commit 16903d7900618ed2b9ff94fff28bd2af9461e3d3
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Tue Nov 20 10:31:47 2018 +0800
+
+    add win tor fr
+
+commit 8de9fd213ddc3d418e9a106b4875bec1bdaa2274
+Author: jd <tlqtangok@126.com>
+Date:   Tue Nov 20 10:28:32 2018 +0800
+
+    add linux tor, fr
+
+commit 52cbeec3596c947b41730e587a436698d12a77e5
+Author: jd <tlqtangok@126.com>
+Date:   Tue Nov 20 10:22:32 2018 +0800
+
+    add pi tor pi
+
+commit 96105790eb66d7f7d2f08331a7b0f6f0c1a48313
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Tue Nov 20 10:17:25 2018 +0800
+
+    run perl -M is double-quoto on win
+
+commit ab15f1e69f9b57bf72a1fbb549af3d1581dd14a0
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Tue Nov 20 10:10:08 2018 +0800
+
+    add or edit: /mnt/hgfs/et/git/t/t/rel/linux/fr /mnt/hgfs/et/git/t/t/rel/linux/tor at 20181120_1010
+
+commit 5db694298f22d04db11e4e141a8721be60e46e84
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Tue Nov 20 09:56:47 2018 +0800
+
+    delete keys if jd_0 hit
+
+commit b4cac76e20ef57e99c2a3bcae548e8fb7e08eed7
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Tue Nov 20 09:40:08 2018 +0800
+
+    add or edit: build.PL fr.PL tor.PL at 20181120_0940
+
+commit 15de8a19b6286e6423822b40c32d02e53820f579
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Tue Nov 20 09:30:22 2018 +0800
+
+    fix error for Redis judge, from == to !=
+
+commit 97ca67eed79311834dd4b6bd1858c7811e131770
+Author: Jidor Tang <tlqtangok@126.com>
+Date:   Tue Nov 20 09:21:12 2018 +0800
+
+    fix build windows error, add build platform info
+
+commit 72b8a6b204c3e31dcda995b286b00e42c1759e35
+Author: jd <tlqtangok@126.com>
+Date:   Mon Nov 19 22:46:16 2018 +0800
+
+    add or edit: build.PL fr.PL tor.PL at 20181119_2246
+
+commit e8af1520c0b11806607c2ef6d78b1afcafdd06db
+Author: jd <tlqtangok@126.com>
+Date:   Mon Nov 19 22:43:43 2018 +0800
+
+    add binary tor, fr
+
+commit 4e7c455369ba3f9473a84c452845a4ab3053abe0
+Author: jd <tlqtangok@126.com>
+Date:   Mon Nov 19 22:42:24 2018 +0800
+
+    add or edit: build.PL at 20181119_2242
+
+commit b400375b7f1b7f2257a31845697d64fdcbaaead4
+Author: jd <tlqtangok@126.com>
+Date:   Mon Nov 19 22:33:48 2018 +0800
+
+    add or edit: build.PL at 20181119_2233
+
+commit 1fde9e5b7786b6e834d48da8a308f32c230c7071
+Author: jd <tlqtangok@126.com>
+Date:   Mon Nov 19 22:28:11 2018 +0800
+
+    add author jd
+
+commit 759dd73f9950afb5703ba932e1a58fec1565871b
+Author: jd <tlqtangok@126.com>
+Date:   Mon Nov 19 22:20:50 2018 +0800
+
+    add or edit : build.PL add say out for running cmd at 20181119_2220
+
+commit 70551201b307a4909aa0380b75802441dd867846
+Author: jd <tlqtangok@126.com>
+Date:   Mon Nov 19 22:19:10 2018 +0800
+
+    - edit build.PL at 20181119_2219
+
+commit df9e8a17213d267ccb3f3ed068ee7a58e3de370a
+Author: jd <tlqtangok@126.com>
+Date:   Mon Nov 19 22:01:39 2018 +0800
+
+    add or edit : readme.txt fr.PL tor.PL at 20181119_2201
+
+commit 4c6093f2c2b28aca51cb209ff1bb90aeb0e5c131
+Author: jd <tlqtangok@126.com>
+Date:   Mon Nov 19 21:43:23 2018 +0800
+
+    append to readme.txt , test
+
+commit c04d48366a11e8e683c47b0de0366a8e9256ac6a
+Author: jd <tlqtangok@126.com>
+Date:   Mon Nov 19 21:42:24 2018 +0800
+
+    append to readme.txt , test
+
+commit 5fbbc391331e804e323cdddba31b90fdfbe61c8e
+Author: jd <tlqtangok@126.com>
+Date:   Mon Nov 19 21:39:42 2018 +0800
+
+    add t readme.txt
