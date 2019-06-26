@@ -45,15 +45,24 @@ sudo cpan -i Redis
 sudo cpan -i Term::ReadKey
 sudo cpan -i Term::ProgressBar
 ```
-### set up you redis-server
+### startup you redis-server on you server
 you need have your redis-server startup. and remember its host ip and port.
-and then you need run a command to set up version key in your DB.
+
+if you have no idea of Redis, you may refer to [redis intro](https://redis.io/topics/data-types-intro)
+
+run: 
+```
+netstat -anop |grep redis-server 
+```
+if you see more than one line output , then your redis server is startting up and ready to go next step.
+
+then you need run a command to set up version key in your DB.
 
 ```
 redis-cli -h <HOSTNAME> set TOR_FR_VERSION_KEY 2019.04.01
 ```
 
-where the "2019.04.01" may be changed as time goes, but should be the same with the version number in source code `tfr.PL`.
+while the argument "2019.04.01" may be changed as time goes, but should be the same with the version number in source code `tfr.PL`.
 
 ## to build
 
