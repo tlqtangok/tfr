@@ -59,7 +59,6 @@ use Term::ReadKey;
 use Term::ProgressBar;
 use FindBin qw($Bin);
 use File::Spec::Functions;
-use Try::Tiny;
 
 ### global var ### 
 
