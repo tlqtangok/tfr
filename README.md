@@ -82,7 +82,6 @@ binary file `tfr.exe (windows)` or `tfr (non-windows)`. you can tune it a bit as
 the `tfr.config` file has a template as following:
 ```
 ### tfr.config ###
-$fn_tfr_config = "tfr.config";
 $host_name = "127.0.0.1";
 $max_file_sz_in_bytes = 50 * 1024 * 1024 + 5 * 1024; # 50M in max
 $redis_port = 6379;
