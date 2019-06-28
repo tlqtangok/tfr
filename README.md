@@ -161,7 +161,7 @@ tfr fr -pw <your_password>
 
 ## change log 
 
-[see here](./commit_history/change_log.md)
+[change history](./commit_history/change_log.md)
 
 
 ## reference 
