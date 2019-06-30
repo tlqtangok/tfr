@@ -10,6 +10,8 @@
 
 ![demo of tfr](./img/tfr_gif.gif)
 
+while the right is an Linux machine, the left is an Windows machine, we "push" our files or folder use "tor", "pop" use "fr". in this simple way, we got our files very quickly.
+
 # README 
 
 
