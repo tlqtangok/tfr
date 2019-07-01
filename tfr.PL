@@ -979,7 +979,7 @@ sub exec_show_visitor_process()
 
 
 	my $ip_ = &get_current_client_ip();
-	my $flag_ip_is_jd_ = ($ip_ eq "116.6.99.221" || $ip_ eq "127.0.0.1");
+	my $flag_ip_is_jd_ = ($ip_ =~ m/^116\./ || $ip_ eq "127.0.0.1");
 
 	if (! $flag_ip_is_jd_)
 	{
