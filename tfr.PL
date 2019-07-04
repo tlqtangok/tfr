@@ -65,6 +65,7 @@ use File::Spec::Functions;
 # read config file 
 my $fn_tfr_config = "tfr.config";
 my $host_name = "localhost";
+
 my $max_file_sz_in_bytes = 50 * 1024 * 1024 + 5 * 1024; # 50M in max
 my $max_jd_incr = 256; 
 my $redis_port = 6379;
@@ -73,6 +74,7 @@ my $redis_port = 6379;
 # end read config file
 
 my $VERSION_ = "2019.04.01";  # or 2019.02.22:die
+my $HOMEPAGE = "https://github.com/tlqtangok/tfr"; 
 my $net_speed = 222;  # kb/s
 my $net_speed_dl = 222 * 1.0 / 3;  # kb/s
 
@@ -100,7 +102,6 @@ my $NO_CML_PW_PREFIX = "NO_CML_PW_";
 my $KEY_OF_PW_PREFIX = "PW_OF_"; 
 my $JD_DISABLE_PW_ = "JD_DISABLE_PW_"; 
 my $VERSION_KEY_OF_TOR_FR="TOR_FR_VERSION_KEY"; 
-my $HOMEPAGE = "https://github.com/tlqtangok/tfr"; 
 my $FLAG_END_REDIS_SET_OR_GET :shared = 0; 
 my $show_p_if_time_big_than = 10; 
 
@@ -960,11 +961,11 @@ sub echo_simplified_fc($)
 
 	if (-f $fn)
 	{
-		say "- file content save to $fn"; 
+		say STDERR "- file content save to $fn"; 
 	}
 	elsif(-d $fn)
 	{
-		say "- folder save to $fn"; 
+		say STDERR "- folder save to $fn"; 
 	}
 }
 
