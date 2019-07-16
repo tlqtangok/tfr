@@ -36,6 +36,27 @@ Macintosh | [download](https://raw.githubusercontent.com/tlqtangok/tfr/master/re
 
 this are these already tested platforms, actually, it should work on more platforms. let me know if it works for you.
 
+---
+# user guide
+as an user, one only need do following things:
+- set up a redis-server, remerber db's ip and port.
+- run `redis-cli -h <ip> set TOR_FR_VERSION_KEY 2019.04.01`
+- then download corresponding client from download table
+- then put a config file `tfr.config` in the same folder as tfr client, 
+the content of it should be:
+```
+### tfr.config ###
+$host_name = "127.0.0.1";
+$max_file_sz_in_bytes = 50 * 1024 * 1024 + 5 * 1024; # 50M in max
+$redis_port = 6379;
+$max_jd_incr = 256; 
+```
+you need tune it to your own.
+
+---
+
+# developer guide 
+
 ## deps & env
 
 ### install some cpan packages you need. 
