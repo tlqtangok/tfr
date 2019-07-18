@@ -196,6 +196,13 @@ $max_jd_incr = 256;
 
 [写一个 tor-fr 会遇到哪些难点](https://mp.weixin.qq.com/s?timestamp=1561559104&src=3&ver=1&signature=59xJxK9B*CWz259f8uE*Sb8dS-ANTWflxTRs*62NYNWR7IYaZ8QBkxXHWcEOZvXYQwjxoiBaYeDTXCOzeqgZmWv6IOZiT4g*PWJFdeseE9*Q26Ceokk*sTk*3T81gnjMisM20q8LIBxJC0AAQ3WTgeRCK8FhJkx-s15Zmi11C6A=)
 
+## sponsor needed
+
+Please give support to enhance this tool:
+
+![](./img/jd_reward_code_small.png)
+
+
 
 <br>
 <br>
