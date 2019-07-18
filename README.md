@@ -53,65 +53,8 @@ $max_jd_incr = 256;
 ```
 you need tune it to your own.
 
----
 
-# developer guide 
-
-## deps & env
-
-### install some cpan packages you need. 
-please firstly set up your environment by following command:
-
-```
-sudo cpan -i pp
-sudo cpan -i Redis
-sudo cpan -i Term::ReadKey
-sudo cpan -i Term::ProgressBar
-```
-### startup you redis-server on you server
-you need have your redis-server startup. and remember its host ip and port.
-
-if you have no idea of Redis, you may refer to [redis intro](https://redis.io/topics/data-types-intro)
-
-run: 
-```
-netstat -anop |grep redis-server 
-```
-if you see more than one line output , then your redis server is startting up and ready to go next step.
-
-then you need run a command to set up version key in your DB.
-
-```
-redis-cli -h <HOSTNAME> set TOR_FR_VERSION_KEY 2019.04.01
-```
-
-while the argument "2019.04.01" may be changed as time goes, but should be the same with the version number in source code `tfr.PL`.
-
-## to build
-
-the build system is smart enough , just run:
-``` 
-perl build.PL
-```
-
-you will get the executed file.
-
-
-
-## before your run
-the default redis host ip is your localhost. but you can change that by putting the `tfr.config` file to the same folder as your 
-binary file `tfr.exe (windows)` or `tfr (non-windows)`. you can tune it a bit as your wish.
-
-the `tfr.config` file has a template as following:
-```
-### tfr.config ###
-$host_name = "127.0.0.1";
-$max_file_sz_in_bytes = 50 * 1024 * 1024 + 5 * 1024; # 50M in max
-$redis_port = 6379;
-$max_jd_incr = 256; 
-```
-
-## usage
+## usage  
 
 **synopsis**
 
@@ -178,6 +121,65 @@ tfr fr jd_xx
 tfr fr jd_xx -pw <your_password>
 tfr fr -pw <your_password>
 ```
+
+---
+
+# developer guide 
+
+## deps & env
+
+### install some cpan packages you need. 
+please firstly set up your environment by following command:
+
+```
+sudo cpan -i pp
+sudo cpan -i Redis
+sudo cpan -i Term::ReadKey
+sudo cpan -i Term::ProgressBar
+```
+### startup you redis-server on you server
+you need have your redis-server startup. and remember its host ip and port.
+
+if you have no idea of Redis, you may refer to [redis intro](https://redis.io/topics/data-types-intro)
+
+run: 
+```
+netstat -anop |grep redis-server 
+```
+if you see more than one line output , then your redis server is startting up and ready to go next step.
+
+then you need run a command to set up version key in your DB.
+
+```
+redis-cli -h <HOSTNAME> set TOR_FR_VERSION_KEY 2019.04.01
+```
+
+while the argument "2019.04.01" may be changed as time goes, but should be the same with the version number in source code `tfr.PL`.
+
+## to build
+
+the build system is smart enough , just run:
+``` 
+perl build.PL
+```
+
+you will get the executed file.
+
+
+
+## before your run
+the default redis host ip is your localhost. but you can change that by putting the `tfr.config` file to the same folder as your 
+binary file `tfr.exe (windows)` or `tfr (non-windows)`. you can tune it a bit as your wish.
+
+the `tfr.config` file has a template as following:
+```
+### tfr.config ###
+$host_name = "127.0.0.1";
+$max_file_sz_in_bytes = 50 * 1024 * 1024 + 5 * 1024; # 50M in max
+$redis_port = 6379;
+$max_jd_incr = 256; 
+```
+
 
 ## to do
 - more test cases 
