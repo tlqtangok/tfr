@@ -198,7 +198,6 @@ $max_jd_incr = 256;
 
 ## sponsor needed
 
-Please give support to enhance this tool:
 
 ![](./img/jd_reward_code_small.png)
 
