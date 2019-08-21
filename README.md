@@ -39,7 +39,7 @@ these are only already tested platforms, actually, it should work on more platfo
 ---
 # user guide
 as an user, one only need do following things:
-- set up a redis-server, remerber db's ip and port.
+- set up a redis-server by `sudo apt install redis-server`, remerber db's ip and port (default is 6379).
 - run `redis-cli -h <ip> set TOR_FR_VERSION_KEY 2019.04.01`
 - then download corresponding client from download table
 - then put a config file `tfr.config` in the same folder as tfr client, 
