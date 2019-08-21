@@ -34,7 +34,7 @@ Pi | [download](https://raw.githubusercontent.com/tlqtangok/tfr/master/rel/pi/tf
 Macintosh | [download](https://raw.githubusercontent.com/tlqtangok/tfr/master/rel/darwin/tfr) | Macintosh/Apple/Darwin | `curl https://raw.githubusercontent.com/tlqtangok/tfr/master/rel/darwin/tfr > tfr`
 
 
-this are these already tested platforms, actually, it should work on more platforms. let me know if it works for you.
+these are only already tested platforms, actually, it should work on more platforms. let me know if it works for you.
 
 ---
 # user guide
