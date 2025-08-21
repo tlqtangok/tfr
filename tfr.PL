@@ -54,7 +54,7 @@ use File::Path;
 use Cwd qw(abs_path cwd);
 use File::Spec;
 use Try::Tiny;
-use arybase; # this is used to make sure exe can be run!!!
+# use arybase; # this is used to make sure exe can be run!!!  if perl >5.28, no need this, I use perl 5.38
 use Term::ReadKey;
 use Term::ProgressBar;
 use FindBin qw($Bin);
